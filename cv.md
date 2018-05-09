@@ -15,9 +15,7 @@ New Zealand
 
 Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
 Skype: mohammad.a.nilforooshan  
-Google sites: <a href="https://sites.google.com/site/mannprofile" target="_blank">New Tab</a>  
-Google sites: <a href="https://sites.google.com/site/mannprofile" target="_blank">New Tab</a>
-
+Google sites: <p><a href="https://sites.google.com/site/mannprofile" target="_blank">https://sites.google.com/site/mannprofile</a></p>  
 Google scholar page: [https://goo.gl/iKbCoU](https://goo.gl/iKbCoU)  
 GitHub profile: [https://github.com/nilforooshan](https://github.com/nilforooshan)  
 Univ. Otago page: [http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan](http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan)
