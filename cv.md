@@ -70,7 +70,7 @@ Postdoctoral Fellow in Quantitative Genetics, November 2015 – Now.
 
 ### Theses
 
-1. Nilforooshan, M.A. 2003. <a href="https://sites.google.com/site/mannprofile/home/msc&sa=D&ust=1525836267225000" target="_blank">Genetic Evaluation and Comparison between Domestic and Imported (Canada, USA, Europe) Sperms for Milk Yield, Fat Yield, and Fat Percentage in Some Dairy Farms of Isfahan Province</a>. MSc thesis.  
+1. Nilforooshan, M.A. 2003. [Genetic Evaluation and Comparison between Domestic and Imported (Canada, USA, Europe) Sperms for Milk Yield, Fat Yield, and Fat Percentage in Some Dairy Farms of Isfahan Province](https://nilforooshan.github.io/msc). MSc thesis.  
 2. Nilforooshan, M.A. 2011. <a href="http://pub.epsilon.slu.se/8094/&sa=D&ust=1525836267225000" target="_blank">Multiple-trait Multiple Country Genetic Evaluation of Fertility Traits in Dairy Cattle</a>. PhD thesis.
 
 ### Peer-reviewed Journals
