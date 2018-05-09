@@ -1,5 +1,5 @@
 ---
-title: CV
+title: cv
 ---
 
 # This is a H1
