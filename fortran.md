@@ -9,19 +9,15 @@
    * Run the compiled program  
    * `./compiledprogram`  
 * On Windows:  
-   * Install GFortran binary package
+  Install GFortran binary package
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oVfAU1ziOjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVfAU1ziOjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 Simple examples from the [manual](http://ftp.g95.org/G95Manual.pdf):  
-`gfortran -c hello.f90`  
-Compiles `hello.f90` to an object ﬁle named `hello.o`.  
-`gfortran hello.f90`  
-Compiles `hello.f90` and links it to produce an executable a.out (on Linux), or a.exe (on MS Windows systems).  
-`gfortran -c h1.f90 h2.f90 h3.f90`  
-Compiles multiple source ﬁles. If all goes well, object ﬁles `h1.o`, `h2.o` and `h3.o` are created.  
-`gfortran -o hello h1.f90 h2.f90 h3.f90`  
-Compiles multiple source ﬁles and links them together to an executable ﬁle named hello on Linux, or hello.exe on MS Windows systems.
+`gfortran -c hello.f90` compiles `hello.f90` to an object ﬁle named `hello.o`.  
+`gfortran hello.f90` compiles `hello.f90` and links it to produce an executable `a.out` (on Linux), or `a.exe` (on MS Windows systems).  
+`gfortran -c h1.f90 h2.f90 h3.f90` compiles multiple source ﬁles. If all goes well, object ﬁles `h1.o`, `h2.o` and `h3.o` are created.  
+`gfortran -o hello h1.f90 h2.f90 h3.f90` compiles multiple source ﬁles and links them together to an executable ﬁle named `hello` on Linux, or `hello.exe` on MS Windows systems.
 
 ---
 
@@ -29,70 +25,70 @@ These are some Fortran programs that I wrote when I was a PhD student or a while
 
 ---
 
-Program: ageindays.exe  
-Worried about your age? Calculate it in days! Calculations according to: [http://mathforum.org/library/drmath/view/59234.html](http://mathforum.org/library/drmath/view/59234.html)  
-Source code
+Program: [ageindays.exe](https://app.box.com/s/tmrlpn35tb2j5vm39ip5)  
+Calculate your age in days! Calculations according to: [http://mathforum.org/library/drmath/view/59234.html](http://mathforum.org/library/drmath/view/59234.html)  
+[Source code](https://gist.github.com/nilforooshan/c4b7c3b54f2ee0c5d88e6bbf2ffad0bc)
 
 ---
 
-Program: chisq_test.exe  
+Program: [chisq_test.exe](https://app.box.com/s/8joiq7nj8nbbretsznuv)  
 Pearson's Chi-square test. Test the frequency distributions of categorical variables in a table of frequencies.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/61caac472ba2c3f309f19b7b56eb94d1)
 
 ---
 
-Program: corr_cov.exe  
+Program: [corr_cov.exe](https://app.box.com/s/ybb2bgrl523h96fivxhe)  
 Convert correlation and covariance matrices to each other.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/953b5742b1acbda05abf634903ecc039)
 
 ---
 
-Program: est_corr.exe  
+Program: [est_corr.exe](https://app.box.com/s/cafmo544xd9j4djmfkb3)  
 Estimate the correlation coefficients among several variables at a time.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/9592379f6faac33a316531c5ae3e511a)
 
 ---
 
-Program: est_reg.exe  
+Program: [est_reg.exe](https://app.box.com/s/q3lclza64szqef42oiqg)  
 Estimate regression and determination coefficients between different pairs of several variables at a time.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/a993160b4d98acb0fc3cb54c653ad703)
 
 ---
 
-Program: factorial.exe  
+Program: [factorial.exe](https://app.box.com/s/kz1yip8imk7mb44usqfd)  
 Estimate the factorial of full/half-integer positive, and half-integer negative values.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/d534c4217db81d9731a12311c7f93767)
 
 ---
 
-Program: hadamard.exe  
+Program: [hadamard.exe](https://app.box.com/s/6g92k0qiw9ccho9nxpn8)  
 Calculate Hadamard transform of two matrices.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/2b7480c4e1de37c43343a59276e78627)
 
 ---
 
-Program: incidm.exe  
+Program: [incidm.exe](https://app.box.com/s/mr5nk4to1dvbxc5g1z28)  
 Create an incidence matrix from a vector of integer codes for effects.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/00680e54490775e3c8de2189a7eb06db)
 
 ---
 
-Program: kronecker.exe  
+Program: [kronecker.exe](https://app.box.com/s/dcrf058kzvivwbtpua0b)  
 Calculate Kronecker product of two matrices.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/b8a6abb097c8a95cd35b1a2592f01252)
 
 ---
 
-Program: matmul.exe  
+Program: [matmul.exe](https://app.box.com/s/ll64ip5ln7vrz59rid2z)  
 Multiply two matrices to each other. You can choose to feed the matrices to the program through a file or console keyboard.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/f29640fa4b94f03e275a58b60c3a5491)
 
 ---
 
 Program: mypassbox.f90  
 A very simple program to keep your passwords in a safe place.
 
-1. Copy the source code in a text editor.  
+1. Copy the [source code](https://gist.github.com/nilforooshan/f18a0aea9f996e327282bf33cb0f8420) in a text editor.  
 2. Read lines 3 & 19 of the code. Make your changes and save the file.  
 3. Compile the file with a Fortran compiler.  
 
@@ -100,61 +96,61 @@ Because your information is saved in a binary file, it cannot be accessible usin
 
 ---
 
-Program: proc_freq.exe  
+Program: [proc_freq.exe](https://app.box.com/s/dgsfpe6b24txult702sf)  
 Find the frequencies and the row/column-wise sums for a table including the number of observations.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/5e1b4fc1be780b782ad38d08e7d17852)
 
 ---
 
-Program: proc_means.exe  
+Program: [proc_means.exe](https://app.box.com/s/pacmua4nieh7xonoiejf)  
 Estimate descriptive statistics for several variables at a time.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/84de9568fc37273aa59549677987d12a)
 
 ---
 
-Program: proc_srt_rnk.exe  
+Program: [proc_srt_rnk.exe](https://app.box.com/s/b9txkcc3o6b414yv6dqt)  
 Sort & rank a vector of observations ascendingly/descendingly.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/2b7ad5ede8c34cd93a63425ae5f69b8c)
 
 ---
 
-Program: rescale.exe  
+Program: [rescale.exe](https://app.box.com/s/c930dfqttjarmieo1trt)  
 Re-scale a vector to a desired mean and variance.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/18477e6d0b0e590096e879091e4d09b0)
 
 ---
 
-Program: smpl_prob.exe  
+Program: [smpl_prob.exe](https://app.box.com/s/a8kg00gzomda2sosl9x3)  
 Define the type of sampling, give the set and sample sizes, and find the number of possibilities and the probability for each possibility.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/b22419e8d6c87f418f74486eaa6a8cb5)
 
 ---
 
-Program: srt_mrg.exe  
+Program: [srt_mrg.exe](https://app.box.com/s/y12ogjosneiecv9g3faz)  
 Sort and merge two numeric files by their first column.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/2a42ff4c6554ba707076197325e7a5ef)
 
 ---
 
-Program: symetric.exe  
+Program: [symetric.exe](https://app.box.com/s/encxtxtbdmnebf3u6nbo)  
 Lazy to check whether your matrix is symetric or not! Try this program. The program will tell you where the matrix is asymetric.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/2ea207be89dec47bb6c49d6ec517e3a6)
 
 ---
 
-Program: trace.exe  
+Program: [trace.exe](https://app.box.com/s/nr1uimkjj88au7c17buq)  
 Calculate the trace of a matrix.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/9f813f365925a9d9e2425be428ff3d49)
 
 ---
 
-Program: traceped.exe  
+Program: [traceped.exe](https://app.box.com/s/skrmbztmx0homsynz6ui)  
 Trace a numerical pedigree (either paternal or maternal) to the base generation.  
-Source code
+[Source code](https://gist.github.com/nilforooshan/9bd722738fbb380b0bb80361b2275a32)
 
 ---
 
-Program: ztest.exe  
+Program: [ztest.exe](https://app.box.com/s/mhh3pxyn02o6env3bu4h)  
 Insert a random variable (x) from a normal distribution with mean (mu) and standard deviation (std), and get the zscore and Prob(Z =< zscore)  
 (i.e., the area under the curve).  
-Source code
+[Source code](https://gist.github.com/nilforooshan/bc7f2d5a39273a3a96a4d4b4f7267a7a)
