@@ -2,6 +2,8 @@
 title: cv
 ---
 
+![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/blob/master/images/CVimage.png)
+
 # Mohammad Ali Nilforooshan
 
 Address:  
