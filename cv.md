@@ -13,9 +13,11 @@ PO Box 56
 Dunedin 9054  
 New Zealand
 
-Email: [mnil@maths.otago.ac.nz](mnil@maths.otago.ac.nz)  
+Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
 Skype: mohammad.a.nilforooshan  
-Google sites: [https://sites.google.com/site/mannprofile](https://sites.google.com/site/mannprofile)  
+Google sites: <a href="https://sites.google.com/site/mannprofile" target="_blank">New Tab</a>  
+Google sites: <a href="https://sites.google.com/site/mannprofile" target="_blank">New Tab</a>
+
 Google scholar page: [https://goo.gl/iKbCoU](https://goo.gl/iKbCoU)  
 GitHub profile: [https://github.com/nilforooshan](https://github.com/nilforooshan)  
 Univ. Otago page: [http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan](http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan)
