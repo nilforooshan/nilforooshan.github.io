@@ -2,7 +2,7 @@
 title: cv
 ---
 
-![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/CVimage.png "M")
+![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/CVimage.png)
 
 # Mohammad Ali Nilforooshan
 
