@@ -1,3 +1,7 @@
+---
+title: fortran
+---
+
 # Fortran
 
 ### Compiling Fortran programs
