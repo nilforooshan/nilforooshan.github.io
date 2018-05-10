@@ -10,7 +10,7 @@ This website is hosted on GitHub, and written in Markdown.
 * [CV](https://nilforooshan.github.io/cv)  
 * Programming  
   * [Fortran](https://nilforooshan.github.io/fortran)  
-  * [Python](https://github.com/nilforooshan/Link-resources/blob/master/link_resources/python_gist_list_public.md)
+  * [Python](https://github.com/nilforooshan/Link-resources/blob/master/link_resources/python_gist_list.md)
 
 ---
 
