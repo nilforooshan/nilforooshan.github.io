@@ -11,6 +11,7 @@ This website is hosted on GitHub, and written in Markdown.
 * Programming  
   * [Fortran](https://nilforooshan.github.io/fortran)  
   * [Python](https://github.com/nilforooshan/Link-resources/blob/master/link_resources/python_gist_list.md)
+  * [R](https://sites.google.com/site/mannprofile/home/r)
 
 ---
 
