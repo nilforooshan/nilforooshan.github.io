@@ -16,7 +16,9 @@ Contact:
 > University of Otago  
 > Dunedin 9016  
 > New Zealand  
-> Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
+> Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
+
+---
 
 * [CV](https://nilforooshan.github.io/cv)  
 * Programming  
