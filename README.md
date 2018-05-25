@@ -1,11 +1,22 @@
 # Mohammad Ali Nilforooshan
 
+![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
+
 Postdoctoral Fellow in Quantitative Genetics  
 Department of Mathematics and Statistics  
 University of Otago
 
 Welcome to my website!  
-This website is hosted on GitHub, and written in Markdown.  
+This website is hosted on GitHub, and written in Markdown.
+
+Contact:  
+> Room 310  
+> Science III building  
+> Department of Mathematics and Statistics  
+> University of Otago  
+> Dunedin 9016  
+> New Zealand  
+> Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
 
 * [CV](https://nilforooshan.github.io/cv)  
 * Programming  
