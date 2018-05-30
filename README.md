@@ -2,12 +2,9 @@
 
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
 
-Postdoctoral Fellow in Quantitative Genetics  
-Department of Mathematics and Statistics  
-University of Otago
-
 Welcome to my website!  
-This website is hosted on GitHub, and written in Markdown.
+I am a Postdoc Fellow in Quantitative Genetics at the Department of Mathematics and Statistics, University of Otago, New Zealand.  
+This website is built on GitHub Pages, and written in Markdown.
 
 Contact:  
 > Room 310  
