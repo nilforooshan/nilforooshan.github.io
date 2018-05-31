@@ -4,7 +4,6 @@
 
 Welcome to my website!  
 I am a Postdoc Fellow in Quantitative Genetics at the Department of Mathematics and Statistics, University of Otago, New Zealand.  
-This website is built on GitHub Pages, and written in Markdown.
 
 Contact:  
 > Room 310  
