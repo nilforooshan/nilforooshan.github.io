@@ -21,6 +21,7 @@ Contact:
   * [Fortran](https://nilforooshan.github.io/fortran)  
   * [Python](https://nilforooshan.github.io/python)
   * [R](https://sites.google.com/site/mannprofile/home/r)
+  * [Bash](https://sites.google.com/site/mannprofile/home/bash)
 
 ---
 
