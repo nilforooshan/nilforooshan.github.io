@@ -31,5 +31,5 @@ Tuesday, 21 April | 15:30-17:30 (Pedigree checking and package pedigreemm)
 Wednesday, 22 April | 13:00-14:00 (An Introduction to International genetic evaluations of Bovine)
 Thursday, 23 April | 10:00-12:00 (Genomic evaluation)
 
-**Home work 1:** ref="http://goo.gl/forms/b5qp5Wlwxl" target="_blank">http://goo.gl/forms/b5qp5Wlwxl</a>  
-**Home work 2:** ref="http://goo.gl/forms/4wFaFXOQ7E" target="_blank">http://goo.gl/forms/4wFaFXOQ7E</a>  
+**Home work 1:** <a href="http://goo.gl/forms/b5qp5Wlwxl" target="_blank">http://goo.gl/forms/b5qp5Wlwxl</a>  
+**Home work 2:** <a href="http://goo.gl/forms/4wFaFXOQ7E" target="_blank">http://goo.gl/forms/4wFaFXOQ7E</a>  
