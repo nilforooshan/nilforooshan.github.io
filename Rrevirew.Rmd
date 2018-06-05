@@ -1,0 +1,314 @@
+---
+title: "A review on the first few lectures"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Quick review of April 13th session
+
+Using R as a calculator:
+
+```{r}
+2*8+3
+2^3*5-3
+a <- 2^3*5-3
+a-6
+```
+
+Using print and paste:
+
+```{r}
+print("It's a good day!")
+print(paste("I am", a, "years old."))
+print(paste("I am", a, "years old.", sep="-"))
+```
+
+Getting help from R:
+
+```{r, eval=FALSE}
+help(read.table)
+?read.table
+```
+
+Creating vectors:
+
+```{r}
+weight.1 <- c(112,106,121,119)
+weight.2 <- c(122,136,133,140)
+weight.2-weight.1
+```
+
+Testing, and log variables:
+
+```{r}
+fruits <- c("Apple","Orange","Carrot")
+fruits=="Apple"
+isApple <- fruits=="Apple"
+isApple
+```
+
+Factors are categorical variables. Those are necessary to distinguish between categorical and numerical variables:
+
+```{r}
+pain <- c(0,3,2,2,1)
+pain
+levels(pain)
+levels(as.factor(pain))
+levels(pain) <- c("none","mild","medium","severe")
+levels(pain)
+pain
+```
+
+## Quick review of April 14th session
+
+Sequences:
+
+```{r}
+4:9
+seq(4,9)
+seq(4,9,1)
+seq(4,10,2)
+```
+
+Replicates:
+
+```{r}
+oops <- c(7,9,13)
+rep(oops,3)
+rep(oops,1:3)
+rep(c("male","female"),c(4,6))
+rep(c("male","female"),each=5)
+```
+
+Lists are useful to combine different collection of objects.
+
+```{r}
+intake.pre <- c(5260,5470,5640,6180,6390,6515,6805,7515,7515,8230,8770)
+intake.post <- c(3910,4220,3885,5160,5645,4680,5265,5975,6790,6900,7335)
+mylist <- list(before=intake.pre, after=intake.post)
+mylist
+mylist$after
+```
+
+Matrices:
+
+```{r}
+x <- 1:12
+dim(x) <- c(3,4)
+x
+y <- matrix(1:12,nrow=3,byrow=TRUE)
+y
+dim(x)
+```
+
+Data frame is the most useful way to deal with a table-like data. Creating a data frame:
+
+```{r}
+testdata <- data.frame(id=paste('pig',1:9,sep=""),pre.weaning=101:109,post.weaning=209:201)
+testdata
+testdata$id
+testdata$post.weaning
+testdata$post.weaning[2]
+```
+
+Slicing:
+
+```{r}
+test <- data.frame(x=1:5,y=6:10,z=11:15)
+test
+test[,2]
+test[2,]
+test[2,2]
+test[2,c(1,3)]
+```
+
+Indexing:
+
+```{r}
+colnames(test) <- c("xx","yy","zz")
+rownames(test) <- c("a","b","c","d","e")
+test
+test[,"yy"]
+test["b",]
+test["b","yy"]
+test["b",c("xx","zz")]
+subset(test, select=xx)
+subset(test, select=-xx)
+```
+
+Slicing & indexing:
+
+```{r}
+test[1:3,c("xx","zz")]
+```
+
+Dropping data:
+
+```{r}
+test
+test[,-1]
+test[-1,]
+subset(test,select=-xx)
+```
+
+Conditional selection:
+
+```{r}
+test
+test[test$xx!=3,]
+test[test$xx>3,]
+test[test$xx>=3 & test$zz<=14,]
+test[test$xx>3 | test$zz<12,]
+```
+
+Read data file:
+
+To read a space separated file like [`data1.txt`](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpQ2tnbVp5cU90SDA), with a header row:
+Depending to the file that you are reading, options can be different.
+
+```{r, eval=FALSE}
+data1 <- read.table(file.choose(), header=TRUE, colClasses=c("character","character","numeric","numeric"))
+```
+
+```{r, echo=FALSE}
+data1 <- read.table("data1.txt", header=TRUE, colClasses=c("character","character","numeric","numeric"))
+```
+
+Get some information about the file:
+
+```{r}
+colnames(data1)
+head(data1)
+head(data1,10)
+tail(data1)
+dim(data1)
+ncol(data1)
+nrow(data1)
+summary(data1)
+```
+
+## Quick review of April 15th session
+
+For the solutions of the home work, check the presentation file.
+
+Write data file:
+
+> Let say we want to write the first 100 rows of `data1` in a space separated file `data1small.txt`, with header row, no quotes, and no row names:
+> Depending to the file that you want to write, options can be different.
+
+```{r, eval=FALSE}
+write.table(data1[1:100,], file="data1small.txt", quote=FALSE, row.names=FALSE)
+getwd()
+```
+
+You can write notes and outputs to an external file. Consider the following example:
+
+```{r, eval=FALSE}
+write(file="log.txt", print("This is my log file."))
+write(file="log.txt", print(paste("Birth weight average =", mean(data1$birthw))), append=TRUE)
+write(file="log.txt", print(paste("Weaning weight average =", mean(data1$weanw))), append=TRUE)
+```
+
+In `log.txt`, you would have:
+
+```
+This is my log file.
+Birth weight average = 4.9986
+Weaning weight average = 17.1162"
+```
+
+To view a data in RStudio, either click the data in the Environment window or:
+
+```{r, eval=FALSE}
+View(data1)
+```
+
+To start editing the data manually:
+
+```{r, eval=FALSE}
+edit(data1)
+```
+
+You can get many descriptive statistics from your data. For example:
+
+```{r}
+mean(data1$birthw)
+cor(data1$birthw, data1$weanw)
+```
+
+Merging 2 data frames (different options are used. Checkout the differences):
+
+```{r}
+df1 <- data.frame(anim=paste0('anim',1:9), food=19:11)
+df2 <- data.frame(anim=paste0('anim',2:10),water=22:30)
+df1
+df2
+df3 <- merge(df1, df2, by="anim")
+df3
+df3 <- merge(df1, df2, by="anim", all.x=TRUE)
+df3
+df3 <- merge(df1, df2, by="anim", all.y=TRUE)
+df3
+```
+
+What if the by column has different names in the 2 data sets?!
+
+```{r}
+colnames(df2)[1] <- "animal"
+colnames(df1)
+colnames(df2)
+df3 <- merge(df1, df2, by.x="anim", by.y="animal")
+df3
+```
+
+cbind
+
+To do `cbind`, the data frames should have the same number of rows.
+
+```{r}
+df1
+df2
+df3 <- cbind(df1, df2)
+df3
+```
+
+rbind
+
+To do `rbind`, the data frames should have the same number of columns and the same column names.
+
+```{r}
+colnames(df1) <- c("anim","food_water")
+colnames(df2) <- c("anim","food_water")
+df3 <- rbind(df1, df2)
+df3
+```
+
+sort
+
+`sort` is not made for data frames! It is for vectors or a single column in a data frame.
+
+```{r}
+df1 <- data.frame(anim=paste0('anim',1:9), food=19:11)
+df2 <- data.frame(anim=paste0('anim',2:10),water=22:30)
+df3 <- merge(df1, df2, all.x=TRUE)
+df3
+sort(df3$food)
+sort(df3$food, decreasing=TRUE)
+```
+
+order
+
+Example of the `order` command:
+
+```{r}
+df3[order(df3$food),]
+df3[order(-df3$food),]
+df3$group <- rep(1:3,3)
+df3
+df3[order(-df3$group, df3$food),]
+```
+
+Matrix operations (not presented, but slides are available for those who are interested.)
