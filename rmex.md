@@ -1,4 +1,4 @@
---
+---
 title: RMEX
 ---
 
@@ -33,3 +33,5 @@ Thursday, 23 April | 10:00-12:00 (Genomic evaluation)
 
 **Home work 1:** <a href="http://goo.gl/forms/b5qp5Wlwxl" target="_blank">http://goo.gl/forms/b5qp5Wlwxl</a>  
 **Home work 2:** <a href="http://goo.gl/forms/4wFaFXOQ7E" target="_blank">http://goo.gl/forms/4wFaFXOQ7E</a>  
+
+**Dear student**, please follow this [link](https://nilforooshan.github.io/rreview.html) to get the **R codes** that I share with you during the course.
