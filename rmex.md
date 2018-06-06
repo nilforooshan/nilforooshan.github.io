@@ -41,16 +41,16 @@ Course materials for each day will be provided the same day.
 
 File | Description | Size
 --- | --- | ---
-[20150415.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpTDdhRDE1d2dBaWc) | Presentation file "Interbull Activities"; Wednesday, 15 April 2015 | 567k
-[20150422.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpR2NEZDlteXpxbVk) | Presentation file "An Introduction to International genetic evaluations of Bovine"; Wednesday, 22 April 2015 | 2236k
+[20150415.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpTDdhRDE1d2dBaWc/view?usp%3Dsharing) | Presentation file "Interbull Activities"; Wednesday, 15 April 2015 | 567k
+[20150422.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpR2NEZDlteXpxbVk/view?usp%3Dsharing) | Presentation file "An Introduction to International genetic evaluations of Bovine"; Wednesday, 22 April 2015 | 2236k
 [beetle.csv](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpdTAtQ1Q1Sy1DbjA) | Experiment data for a sire model analysis of beetle fecundity (Data: Messina & Fry, 2003) | 5k
 [data1.csv](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpb0oxelltMmk2Z1k) | data1.txt, comma separated | 10k
 [data1.txt](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpQ2tnbVp5cU90SDA) | Sample data, containing ID, protein level in the diet, birth weight, and wean weight of animals | 10k
 [homework1.txt](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpYVJhZ2Vic1V1STA) | [http://goo.gl/forms/b5qp5Wlwxl](http://goo.gl/forms/b5qp5Wlwxl) | 1k
-[pedigreemm.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpRE9mVHlqM2pwTTQ) | Presentation file about pedigree checking and pedigreemm | 705k
-[Presentation_day1.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpZEdYY2s5c1BYdE0) | Presentation file from the 1st day | 4377k
-[Presentation_day2.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpVG1MSnpsMWR1a3M) | Presentation file from the 2nd day | 1526k
-[Presentation_day3.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpRlg0TkhEOV9nZ28) | Presentation file from the 3rd day | 1916k
-[Presentation_day4.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpM0FfWi1CcDV2d0U) | Presentation file from the 4th day | 2664k
-[Presentation_day5.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpQXlDR1dZVFZPYk0) | Presentation file from the 5th day | 1446k
-[Presentation_day6.pdf](https://drive.google.com/uc?export=download&id=0B2l_izQwJmVpdnFhQm1yc3ZrbkE) | Presentation file from the 6th day | 1483k
+[pedigreemm.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpRE9mVHlqM2pwTTQ/view?usp%3Dsharing) | Presentation file about pedigree checking and pedigreemm | 705k
+[Presentation_day1.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpZEdYY2s5c1BYdE0/view?usp%3Dsharing) | Presentation file from the 1st day | 4377k
+[Presentation_day2.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpVG1MSnpsMWR1a3M/view?usp%3Dsharing) | Presentation file from the 2nd day | 1526k
+[Presentation_day3.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpRlg0TkhEOV9nZ28/view?usp%3Dsharing) | Presentation file from the 3rd day | 1916k
+[Presentation_day4.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpM0FfWi1CcDV2d0U/view?usp%3Dsharing) | Presentation file from the 4th day | 2664k
+[Presentation_day5.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpQXlDR1dZVFZPYk0/view?usp%3Dsharing) | Presentation file from the 5th day | 1446k
+[Presentation_day6.pdf](https://drive.google.com/file/d/0B2l_izQwJmVpdnFhQm1yc3ZrbkE/view?usp%3Dsharing) | Presentation file from the 6th day | 1483k

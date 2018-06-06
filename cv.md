@@ -15,7 +15,6 @@ New Zealand
 
 Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
 Skype: mohammad.a.nilforooshan  
-Google sites: <a href="https://sites.google.com/site/mannprofile" target="_blank">https://sites.google.com/site/mannprofile</a>  
 Google scholar page: <a href="https://goo.gl/iKbCoU" target="_blank">https://goo.gl/iKbCoU</a>  
 GitHub site: <a href="https://nilforooshan.github.io" target="_blank">https://nilforooshan.github.io</a>  
 GitHub profile: <a href="https://github.com/nilforooshan" target="_blank">https://github.com/nilforooshan</a>  
@@ -112,38 +111,38 @@ Research Assistant, September 2004 – June 2006
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۵. هزینه پرورش تلیسه های جایگزین. ماهنامه گاودار،‌ شماره ۹۲: ۱۲ـ۱۴</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpaW1nQ3BBQy1MMjQ/edit?usp%3Dsharing" target="_blank">The cost of raising replacements</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpaW1nQ3BBQy1MMjQ/view?usp%3Dsharing" target="_blank">The cost of raising replacements</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۵. استفاده از شاخص انتخاب در ارزیابی های ژنتیکی. ماهنامه اصلاح نژاد،‌ شماره ۹: ۴ـ۶</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpY3FwdFlmdEdxRm8/edit?usp%3Dsharing" target="_blank">Linear type evaluations</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpY3FwdFlmdEdxRm8/view?usp%3Dsharing" target="_blank">Linear type evaluations</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۴. تعیین جنس اسپرم گاو. ماهنامه اصلاح نژاد،‌ شماره ۷: ۱۴ـ۱۵</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpTWprWTlEeF9yM0U/edit?usp%3Dsharing" target="_blank">Sperm sexing</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpTWprWTlEeF9yM0U/view?usp%3Dsharing" target="_blank">Sperm sexing</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۴. امتیاز وضعیت بدنی. ماهنامه اصلاح نژاد،‌ شماره ۶: ۲ـ۴</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpYVJrQ0VBYlRIOVE/edit?usp%3Dsharing" target="_blank">Body condition score</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpYVJrQ0VBYlRIOVE/view?usp%3Dsharing" target="_blank">Body condition score</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۲. بیماریهای متابولیکی یک مشکل تغذیه ای و مدیریتی. ماهنامه بقره،‌ شماره ۲۸: ۲۷ـ۲۹</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpNlVVVmw0T25KMjg/edit?usp%3Dsharing" target="_blank">Metabolic disease, a feeding and management problem</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpNlVVVmw0T25KMjg/view?usp%3Dsharing" target="_blank">Metabolic disease, a feeding and management problem</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۱. مدیریت تغذیه در زایش گاو. ماهنامه بقره،‌ شماره ۲۴: ۴۱ـ۴۳</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpMHZEVFowOXNTZGM/edit?usp%3Dsharing" target="_blank">Cow management and calving</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpMHZEVFowOXNTZGM/view?usp%3Dsharing" target="_blank">Cow management and calving</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. برومند، م. ۲۰۰۱. اهمیت پروتئینهای محافظت شده در تغذیه گاو. ماهنامه گاودار،‌ شماره ۴۴: ۴ـ۷</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpMnRudFQyM0hMSXc/edit?usp%3Dsharing" target="_blank">The importance of RUPs in dairy cattle nutrition</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpMnRudFQyM0hMSXc/view?usp%3Dsharing" target="_blank">The importance of RUPs in dairy cattle nutrition</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۱. آفلاتوکسین خصوصیات و آثار سوء آن. ماهنامه گاودار،‌ شماره ۴۱: ۲ـ۳</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpWXlNRURFLTQ3Zkk/edit?usp%3Dsharing" target="_blank">Aflatoxin, and its harmful effects</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpWXlNRURFLTQ3Zkk/view?usp%3Dsharing" target="_blank">Aflatoxin, and its harmful effects</a>
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۰. اثرات ورم پستان بالینی بر تولید شیر. ماهنامه گاودار،‌ شماره ۳۹: ۲ـ۴</div>
 
-<a href="https://docs.google.com/file/d/0B2l_izQwJmVpYllqZmdWTHBLQzA/edit?usp%3Dsharing" target="_blank">Effects of clinical mastitis on milk yield in dairy cows</a>
+<a href="https://drive.google.com/file/d/0B2l_izQwJmVpYllqZmdWTHBLQzA/view?usp%3Dsharing" target="_blank">Effects of clinical mastitis on milk yield in dairy cows</a>
 
 Last update: May 2018
