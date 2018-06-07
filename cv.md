@@ -67,7 +67,7 @@ Research Assistant, September 2004 – June 2006
 ## Theses
 
 1. Nilforooshan, M.A. 2011. <a href="https://pub.epsilon.slu.se/8094/" target="_blank">Multiple-trait Multiple Country Genetic Evaluation of Fertility Traits in Dairy Cattle</a>. PhD thesis.  
-2. Nilforooshan, M.A. 2003. [Genetic Evaluation and Comparison between Domestic and Imported (Canada, USA, Europe) Sperms for Milk Yield, Fat Yield, and Fat Percentage in Some Dairy Farms of Isfahan Province](https://nilforooshan.github.io/msc). MSc thesis.  
+2. Nilforooshan, M.A. 2003. <a href="https://drive.google.com/file/d/1XuiHReLRvAbhcH64vRtKD4kEU2yPHlpx/view?usp=sharing" target="_blank">Genetic Evaluation and Comparison between Domestic and Imported (Canada, USA, Europe) Sperms for Milk Yield, Fat Yield, and Fat Percentage in Some Dairy Farms of Isfahan Province</a>. MSc thesis.  
 
 ## Peer-reviewed Journals
 
