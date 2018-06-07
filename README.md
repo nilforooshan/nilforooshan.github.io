@@ -20,7 +20,7 @@ Contact:
 * Programming  
   * [Fortran](https://nilforooshan.github.io/fortran)  
   * [Python](https://nilforooshan.github.io/python)
-  * [R](https://sites.google.com/site/mannprofile/home/r)
+  * [R](https://nilforooshan.github.io/r)
     * [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
       * [Code review](https://nilforooshan.github.io/rreview.html)
   * [Bash](https://nilforooshan.github.io/bash)
