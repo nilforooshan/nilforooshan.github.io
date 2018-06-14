@@ -5,6 +5,8 @@
 Welcome to my website!  
 I am a Postdoc Fellow in Quantitative Genetics at the Department of Mathematics and Statistics, University of Otago, New Zealand.  
 
+My current research focus is on developing and the implemention of a genetic evaluation system for <a href="http://www.blnzgenetics.com/" target="_blank">beef+lamb NZ Genetics</a>, using pedigree, genomic and phenotype information simultaneously. This method is known as the single-step genomic model (ssGBLUP). I am also assisting beef+lamb NZ Genetics in other projects related to genetic evaluation.  
+
 Contact:  
 > Room 310  
 > Science III building  
