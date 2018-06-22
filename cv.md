@@ -71,7 +71,7 @@ Research Assistant, September 2004 – June 2006
 
 ## Peer-reviewed Journals
 
-1. **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2014. Multiple-trait multiple country genetic evaluation of Holstein bulls for female fertility and production traits. animal, 8(6) 887–894. <a href="https://doi.org/10.1017/S1751731114000895" target="_blank">doi:10.1017/S1751731114000895</a>  
+1. **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2014. Multiple-trait multiple country genetic evaluation of Holstein bulls for female fertility and milk production traits. animal, 8(6) 887–894. <a href="https://doi.org/10.1017/S1751731114000895" target="_blank">doi:10.1017/S1751731114000895</a>  
 2. Behdad, S., M.A. Edriss, **M.A. Nilforooshan**, and A.H. Movassagh. 2013. <a href="http://epubs.icar.org.in/ejournal/index.php/IJAnS/article/view/26453" target="_blank">Wool characteristics of Bakhtiari sheep and the correlated responses to selection for pre-weaning daily gain</a>. Indian J. Anim. Sci. 83(1): 82–85.  
 3. **Nilforooshan, M.A.**, W.F. Fikse, B. Berglund, J.H. Jakobsen, and H. Jorjani. 2011. Short communication: Quantifying bias in a single-trait international model ignoring covariances from multiple-trait national models. J. Dairy Sci. 94: 2631–2636. <a href="https://doi.org/10.3168/jds.2010-3863" target="_blank">doi:10.3168/jds.2010-3863</a>  
 4. **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2010. Application of a multiple-trait multiple-country genetic evaluation model for female fertility traits. J. Dairy Sci. 93: 5977–5986. <a href="https://doi.org/10.3168/jds.2010-3437" target="_blank">doi:10.3168/jds.2010-3437</a>  
