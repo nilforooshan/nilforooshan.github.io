@@ -44,3 +44,4 @@ title: R
 [BLUP with maternal permanent environmental effect](https://gist.github.com/nilforooshan/774fdb7139e215d95e8cd8d6472eb0aa "illustrateBLUP2.md")  
 [Heatmap function](https://gist.github.com/nilforooshan/ba46fd2219f576fdadde4fe1e1d56f24 "heatmapR.md")  
 [LRS's R function to get A-inverse matrix](https://gist.github.com/nilforooshan/6c5d4bf8c2c60284134aadfcab907c46 "AinvLRS.R")  
+[A simple single-trait BLUP function](https://gist.github.com/nilforooshan/d6f75a5c617980d9e4b50864a771d4de "BLUPfunction.md")  
