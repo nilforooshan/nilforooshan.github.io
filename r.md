@@ -45,3 +45,4 @@ title: R
 [Heatmap function](https://gist.github.com/nilforooshan/ba46fd2219f576fdadde4fe1e1d56f24 "heatmapR.md")  
 [LRS's R function to get A-inverse matrix](https://gist.github.com/nilforooshan/6c5d4bf8c2c60284134aadfcab907c46 "AinvLRS.R")  
 [A simple single-trait BLUP function](https://gist.github.com/nilforooshan/d6f75a5c617980d9e4b50864a771d4de "BLUPfunction.md")  
+[A pedigree extraction/pruning program](https://gist.github.com/nilforooshan/af885d394d73d71f7d8f6584a35ae094 "pedBuild.md")  
