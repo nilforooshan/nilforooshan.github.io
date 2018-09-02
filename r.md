@@ -12,7 +12,7 @@ title: R
 
 ## Packages
 
-[ggroup](https://github.com/nilforooshan/ggroups "ggroup")  
+[ggroups](https://github.com/nilforooshan/ggroups "ggroups")  
 
 ## Gists
 
