@@ -4,10 +4,8 @@ title: R
 
 # R
 
-## Links
+## R Courses
 
-[Color names in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)   
-[Color codes in R](http://research.stowers-institute.org/efg/R/Color/Chart/)  
 [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
 
 ## Packages
