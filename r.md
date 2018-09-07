@@ -11,6 +11,11 @@ title: R
 ## Packages
 
 [ggroups](https://github.com/nilforooshan/ggroups "ggroups")  
+> * This R package is about pedigree and genetic goups.
+> * Pedigree processing and sorting
+> * Calculating the genetic relationship matrix from a pedigree
+> * Calculating the matrix of genetic group contributions to individuals in a pedigree
+> * Adding genetic group contributions to genetic merit of animals, if not done in the mixed model equations
 
 ## Gists
 
