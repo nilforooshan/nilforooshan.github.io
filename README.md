@@ -3,17 +3,9 @@
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
 
 Welcome to my website!  
-I am a Postdoc Fellow in Quantitative Genetics at the Department of Mathematics and Statistics, University of Otago, New Zealand.  
+I am a Post-Doctoral Researcher in Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
+I do research on the statistical and computational aspects of the genetic/genomic evaluation of dairy cattle in New Zealand.  
 
-My current research focus is on developing and the implemention of a genetic evaluation system for <a href="http://www.blnzgenetics.com/" target="_blank">beef+lamb NZ Genetics</a>, using pedigree, genomic and phenotype information simultaneously. This method is known as the single-step genomic model (ssGBLUP). I am also assisting beef+lamb NZ Genetics in other projects related to genetic evaluation.  
-
-Contact:  
-> Room 310  
-> Science III building  
-> Department of Mathematics and Statistics  
-> University of Otago  
-> Dunedin 9016  
-> New Zealand  
 > Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
 
 ---
