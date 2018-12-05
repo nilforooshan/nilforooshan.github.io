@@ -6,19 +6,11 @@ title: cv
 
 # Mohammad Ali Nilforooshan
 
-Address:  
-> Department of Mathematics & Statistics  
-University of Otago  
-PO Box 56  
-Dunedin 9054  
-New Zealand
-
-Email: [mnil@maths.otago.ac.nz](mailto:mnil@maths.otago.ac.nz)  
+Email: [mohammad.nilforooshan@lic.co.nz](mailto:mohammad.nilforooshan@lic.co.nz)  
 Skype: mohammad.a.nilforooshan  
 Google scholar page: <a href="https://goo.gl/iKbCoU" target="_blank">https://goo.gl/iKbCoU</a>  
 GitHub site: <a href="https://nilforooshan.github.io" target="_blank">https://nilforooshan.github.io</a>  
 GitHub profile: <a href="https://github.com/nilforooshan" target="_blank">https://github.com/nilforooshan</a>  
-Univ. Otago page: <a href="http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan" target="_blank">http://www.stats.otago.ac.nz/?people=mohammad_nilforooshan</a>
 
 ## Education
 
@@ -48,9 +40,10 @@ PhD in Animal Breeding and Genetics – Quantitative Genetics, June 2007 – May
 
 ## Employments  
 
-
+* **LIC**  
+Postdoctoral Researcher, December 2018 – Now.  
 * **University of Otago, Department of Mathematics and Statistics**  
-Postdoctoral Fellow in Quantitative Genetics, November 2015 – Now.  
+Postdoctoral Fellow in Quantitative Genetics, November 2015 – October 2018.  
 * **Swedish University of Agricultural Sciences, Department of Animal Breeding and Genetics, Interbull Centre**  
 Geneticist, June 2012 – October 2015  
 * **University of Nebraska-Lincoln, Department of Statistics**  
@@ -146,4 +139,4 @@ Research Assistant, September 2004 – June 2006
 
 <a href="https://drive.google.com/file/d/0B2l_izQwJmVpYllqZmdWTHBLQzA/view?usp=sharing" target="_blank">Effects of clinical mastitis on milk yield in dairy cows</a>
 
-Last update: May 2018
+Last update: December 2018
