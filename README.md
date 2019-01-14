@@ -6,6 +6,10 @@ Welcome to my website!
 I am a Post-Doctoral Researcher in Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
 I do research on the statistical and computational aspects of the genetic/genomic evaluation of dairy cattle in New Zealand.  
 
+Contact:  
+> Private Bag 3016 (Cnr Ruakura & Morrinsville Roads, Newstead)  
+> Hamilton 3240  
+> New Zealand  
 > Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
 
 ---
