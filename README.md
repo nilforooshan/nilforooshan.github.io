@@ -7,9 +7,8 @@ I am a Post-Doctoral Researcher in Quantitative Genetics at <a href="http://www.
 I do research on the statistical and computational aspects of the genetic/genomic evaluation of dairy cattle in New Zealand.  
 
 Contact:  
-> Private Bag 3016 (Cnr Ruakura & Morrinsville Roads, Newstead)  
-> Hamilton 3240  
-> New Zealand  
+> Postal address: LIC, Private Bag 3016, Hamilton 3240, New Zealand  
+> Physical address: LIC, Cnr Ruakura & Morrinsville Rd., Newstead, Hamilton 3286  
 > Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
 
 ---
