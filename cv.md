@@ -56,6 +56,7 @@ Research Assistant, September 2004 – June 2006
 
 ## Teaching Experience
 
+* Supervising a visiting PhD student to the Department of Mathematics and Statistics, University of Otago, from 1 August to 30 October, 2018.
 * Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July – October, 2018.  
 * Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July – October, 2017.  
 * Teaching R programming, and giving several other talks in the University of Chapingo, Texcoco, Mexico, April 2015.  
