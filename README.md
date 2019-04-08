@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io.svg)](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io)
+[![last-commit](https://img.shields.io/github/last-commit/nilforooshan/nilforooshan.github.io.svg)]
+
 # Mohammad Ali Nilforooshan
 
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
@@ -14,11 +17,13 @@ Contact:
 ---
 
 * [CV](https://nilforooshan.github.io/cv)  
-* Programming  
-  * [Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)  
-  * [R](https://nilforooshan.github.io/r)
-    * [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
-      * [Code review](https://nilforooshan.github.io/rreview.html)
+* [Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)  
+* [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
+   * [Code review](https://nilforooshan.github.io/rreview.html)
+* R package ggroups
+   * [@CRAN](https://cran.r-project.org/package=ggroups)
+   * [@RDocumentation](https://www.rdocumentation.org/packages/ggroups)
+   * [@GitHub](https://github.com/nilforooshan/ggroups)
 
 ---
 
