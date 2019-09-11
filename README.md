@@ -25,6 +25,7 @@ Contact:
    * [@CRAN](https://cran.r-project.org/package=ggroups)
    * [@RDocumentation](https://www.rdocumentation.org/packages/ggroups)
    * [@GitHub](https://github.com/nilforooshan/ggroups)
+* R package [mbend](https://github.com/nilforooshan/mbend)
 
 ---
 
