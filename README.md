@@ -27,7 +27,7 @@ Contact:
    * [@GitHub](https://github.com/nilforooshan/ggroups)
 * R package mbend
    * [@GitHub](https://github.com/nilforooshan/mbend)
-   * [@Zenodo](https://zenodo.org/record/3407965#.XXyJxmaxU2w)
+   * [@Zenodo](https://doi.org/10.5281/zenodo.3459238)
 
 ---
 
