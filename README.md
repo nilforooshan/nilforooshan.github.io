@@ -17,15 +17,15 @@ Contact:
 
 ---
 
-* [CV](https://nilforooshan.github.io/cv)  
+* [Resume](https://nilforooshan.github.io/resume/resume) [[PDF]](https://nilforooshan.github.io/resume/resume.pdf)  
 * [Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)  
 * [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
    * [Code review](https://nilforooshan.github.io/rreview.html)
 * R package ggroups
    * [@CRAN](https://cran.r-project.org/package=ggroups)
-   * [@RDocumentation](https://www.rdocumentation.org/packages/ggroups)
    * [@GitHub](https://github.com/nilforooshan/ggroups)
 * R package mbend
+   * [@CRAN](https://cran.r-project.org/package=mbend)
    * [@GitHub](https://github.com/nilforooshan/mbend)
    * [@Zenodo](https://doi.org/10.5281/zenodo.3459238)
 
