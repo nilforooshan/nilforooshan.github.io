@@ -87,8 +87,9 @@ Software
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2020. Memory efficient self-cross-product for large matrices using R and Python. *J. Math. Comput. Sci.* In Press.
 * **Nilforooshan, M.A.** 2020. Updating genetic relationship matrices and their inverses: A methodology note. *Can. J. Anim. Sci.* In Press. [![DOI](https://img.shields.io/badge/DOI-10.1139%2FCJAS--2019--0106-yellow)](https://doi.org/10.1139/CJAS-2019-0106)
-* **Nilforooshan, M.A.** 2019. Application of single-step GBLUP in New Zealand Romney sheep. *Anim. Prod. Sci.* In Press.
+* **Nilforooshan, M.A.** 2019. Application of single-step GBLUP in New Zealand Romney sheep. *Anim. Prod. Sci.* [In Press](https://www.publish.csiro.au/AN/justaccepted/AN19315).
 * **Nilforooshan, M.A.**, and M. Lee. 2019. The quality of the algorithm for proven and young with various sets of core animals in a multi-breed sheep population. *J. Anim. Sci.* 97(3): 1090--1100. [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fjas%2Fskz010-yellow.svg)](https://doi.org/10.1093/jas/skz010)
 * **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2014. Multiple-trait multiple country genetic evaluation of Holstein bulls for female fertility and milk production traits. *animal*, 8(6) 887--894. [![DOI](https://img.shields.io/badge/DOI-10.1017%2FS1751731114000895-yellow.svg)](https://doi.org/10.1017/S1751731114000895)
 * Behdad, S., M.A. Edriss, **M.A. Nilforooshan**, and A.H. Movassagh. 2013. Wool characteristics of Bakhtiari sheep and the correlated responses to selection for pre-weaning daily gain. *Indian J. Anim. Sci.* [83(1): 82--85](http://epubs.icar.org.in/ejournal/index.php/IJAnS/article/view/26453).
