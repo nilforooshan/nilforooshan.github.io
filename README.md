@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io.svg)](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io)
+<!-- [![HitCount](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io.svg)](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io) -->
 ![last-commit](https://img.shields.io/github/last-commit/nilforooshan/nilforooshan.github.io.svg)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
