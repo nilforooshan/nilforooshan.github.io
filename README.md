@@ -1,14 +1,13 @@
-<!-- [![HitCount](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io.svg)](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io) -->
-![last-commit](https://img.shields.io/github/last-commit/nilforooshan/nilforooshan.github.io.svg)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
 # Mohammad Ali Nilforooshan
 
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
 
 Welcome to my website!  
-I am a Post-Doctoral Researcher in Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
-I do research on the statistical and computational aspects of the genetic/genomic evaluation of dairy cattle in New Zealand.  
+I am a post-doctoral researcher in Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
+I received my PhD in Animal Breedig and Genetics &ndash; Quantitative Genetics, from the Swedish University of Agricultural Sciences, in 2011.  
+My work experience is mainly on genetic/genomic evaluation of dairy cattle, but I also have experience in genetic/genomic evaluation of sheep and beef cattle.  
+My research interest is on methodological and computational aspects of quantitative genetics.
+
 
 Contact:  
 > Postal address: LIC, Private Bag 3016, Hamilton 3240, New Zealand  
