@@ -11,12 +11,12 @@ My research interest is on methodological and computational aspects of quantitat
 
 Contact:  
 > Postal address: LIC, Private Bag 3016, Hamilton 3240, New Zealand  
-> Physical address: LIC, Cnr Ruakura & Morrinsville Rd., Newstead, Hamilton 3286  
+> Physical address: LIC, 605 Ruakura Road, Newstead, Hamilton 3286, New Zealand  
 > Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
 
 ---
 
-* [Resume](https://nilforooshan.github.io/resume/resume) [[PDF]](https://nilforooshan.github.io/resume/resume.pdf)  
+* [Resume](https://nilforooshan.github.io/resume/resume), [[PDF]](https://nilforooshan.github.io/resume/resume.pdf)  
 * [Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)  
 * [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
    * [Code review](https://nilforooshan.github.io/rreview.html)
