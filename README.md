@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162009731-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-162009731-1');
-</script>
-</head> 
-
 # Mohammad Ali Nilforooshan
 
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
