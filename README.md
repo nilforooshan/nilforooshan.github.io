@@ -1,8 +1,13 @@
+[![HitCount](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io.svg)](http://hits.dwyl.io/nilforooshan/nilforooshan.github.io)
+
 # Mohammad Ali Nilforooshan
 
 ![MyImage](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/mohammad_nilforooshan.jpg)
 
 Welcome to my website!  
+
+### About me
+
 I am a post-doctoral researcher in Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
 I received my PhD in Animal Breedig and Genetics &ndash; Quantitative Genetics, from the Swedish University of Agricultural Sciences, in 2011.  
 My work experience is mainly on genetic/genomic evaluation of dairy cattle, but I also have experience in genetic/genomic evaluation of sheep and beef cattle.  
