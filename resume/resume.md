@@ -81,6 +81,7 @@ Teaching
 Software
 ========
 
+**Nilforooshan, M.A.** 2020. R package [pedSimulate](https://CRAN.R-project.org/package=pedSimulate): Pedigree, Genetic Merit and Phenotype Simulation.   
 **Nilforooshan, M.A.** 2019. R package [mbend](https://CRAN.R-project.org/package=mbend): Matrix Bending. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3524058.svg)](https://doi.org/10.5281/zenodo.3524058)   
 **Nilforooshan, M.A.** 2019. R package [ggroups](https://CRAN.R-project.org/package=ggroups): Pedigree and Genetic Groups.
 

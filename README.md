@@ -32,6 +32,8 @@ Contact:
    * [@CRAN](https://cran.r-project.org/package=mbend)
    * [@GitHub](https://github.com/nilforooshan/mbend)
    * [@Zenodo](https://doi.org/10.5281/zenodo.3459238)
+* R package pedSimulate
+   * [@CRAN](https://cran.r-project.org/package=pedSimulate)
 
 ---
 
