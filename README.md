@@ -21,7 +21,7 @@ Contact:
 
 ---
 
-* [Resume](https://nilforooshan.github.io/resume/README), [[PDF]](https://nilforooshan.github.io/resume/resume.pdf)  
+* [Resume](https://nilforooshan.github.io/resume/), [[PDF]](https://nilforooshan.github.io/resume/resume.pdf)  
 * [Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)  
 * [R course in Mexico, April 2015](https://nilforooshan.github.io/rmex)
    * [Code review](https://nilforooshan.github.io/rreview.html)
