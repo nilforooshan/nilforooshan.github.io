@@ -88,7 +88,7 @@ Software
 Publications
 ============
 
-* **Nilforooshan, M.A.**, and L.A. Saavedra-Jiménez. 2020. ggroups: An R package for pedigree and genetic groups data. *Hereditas* 157: 17. [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs41065-020-00124-2-yellow)](https://doi.org/10.1186/s41065-020-00124-2)
+* **Nilforooshan, M.A.**, and L.A. Saavedra-Jiménez. 2020. ggroups: An R package for pedigree and genetic groups data. *Hereditas* 157: 17. [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs41065--020--00124--2-yellow)](https://doi.org/10.1186/s41065-020-00124-2)
 * **Nilforooshan, M.A.** 2020. Memory-efficient self-cross-product for large matrices using R and Python. *J. Math. Comput. Sci.* 10(3): 497--506. [![DOI](https://img.shields.io/badge/DOI-10.28919%2Fjmcs%2F4457-yellow)](https://doi.org/10.28919/jmcs/4457)
 * **Nilforooshan, M.A.** 2020. Updating genetic relationship matrices and their inverses: A methodology note. *Can. J. Anim. Sci.* Early Access. [![DOI](https://img.shields.io/badge/DOI-10.1139%2FCJAS--2019--0106-yellow)](https://doi.org/10.1139/CJAS-2019-0106)
 * **Nilforooshan, M.A.** 2020. Application of single-step GBLUP in New Zealand Romney sheep. *Anim. Prod. Sci.* Early Access. [![DOI](https://img.shields.io/badge/DOI-10.1071%2FAN19315-yellow)](https://doi.org/10.1071/AN19315)
