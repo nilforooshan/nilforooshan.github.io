@@ -2,7 +2,7 @@
 
 *Quantitative Geneticist*
 
-<img align="right" src="images/CVimage.png">
+<img align="right" src="https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/CVimage.png">
 
 ---
 
@@ -140,3 +140,4 @@ Extension
 =========
 
 [Papers in Farsi](https://nilforooshan.github.io/resume/extension)
+

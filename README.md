@@ -20,26 +20,26 @@ Contact:
 <details>
 <summary>Resume</summary>
 
-* <a href="https://nilforooshan.github.io/resume/" target="_blank">HTML</a>
-* <a href="https://nilforooshan.github.io/resume/resume.pdf" target="_blank">PDF</a>
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/" target="_blank">HTML</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/resume.pdf" target="_blank">PDF</a>
 </details>
 
 <details>
 <summary>R course</summary>
 
-* <a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a>
-* <a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
 </details>
 
 <details>
 <summary>R packages</summary>
 
-* <a href="https://cran.r-project.org/package=ggroups" target="_blank">ggroups</a>
-* <a href="https://cran.r-project.org/package=mbend" target="_blank">mbend</a>
-* <a href="https://cran.r-project.org/package=pedSimulate" target="_blank">pedSimulate</a>
+&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=ggroups" target="_blank">ggroups</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=mbend" target="_blank">mbend</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=pedSimulate" target="_blank">pedSimulate</a>
 </details>
 
-* <a href="https://github.com/nilforooshan/Link-resources/blob/master/README.md" target="_blank">Gists</a>
+<a href="https://github.com/nilforooshan/Link-resources/blob/master/README.md" target="_blank">Gists</a>
 
 ---
 

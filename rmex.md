@@ -4,7 +4,7 @@ title: RMEX
 
 # R counrse in Mexico, April 2015
 
-![Image](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/IMG_1970.JPG)
+![Image](images/IMG_1970.JPG)
 
 This web page is for the R course at *Universidad Autónoma Chapingo*, Mexico, April 2015.  
 Course notes, presentation files, R scripts and sample data will be provided here during the course.  
@@ -54,3 +54,4 @@ File | Description | Size
 <a href="https://drive.google.com/file/d/0B2l_izQwJmVpM0FfWi1CcDV2d0U/view?usp=sharing" target="_blank">Presentation_day4.pdf</a> | Presentation file from the 4th day | 2664k
 <a href="https://drive.google.com/file/d/0B2l_izQwJmVpQXlDR1dZVFZPYk0/view?usp=sharing" target="_blank">Presentation_day5.pdf</a> | Presentation file from the 5th day | 1446k
 <a href="https://drive.google.com/file/d/0B2l_izQwJmVpdnFhQm1yc3ZrbkE/view?usp=sharing" target="_blank">Presentation_day6.pdf</a> | Presentation file from the 6th day | 1483k
+
