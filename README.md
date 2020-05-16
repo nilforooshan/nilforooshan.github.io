@@ -28,7 +28,7 @@ Contact:
 <summary>R course</summary>
 
 &nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a><br>
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
 </details>
 
 <details>
