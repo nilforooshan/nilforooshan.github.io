@@ -95,9 +95,9 @@ Publications
 * **Nilforooshan, M.A.**, and L.A. Saavedra-Jiménez. 2020. ggroups: An R package for pedigree and genetic groups data. *Hereditas* 157: 17. <a href="https://doi.org/10.1186/s41065-020-00124-2" target="_blank">doi:10.1186/s41065-020-00124-2</a>
 * **Nilforooshan, M.A.** 2020. Memory-efficient self-cross-product for large matrices using R and Python. *J. Math. Comput. Sci.* 10(3): 497--506. <a href="https://doi.org/10.28919/jmcs/4457" target="_blank">doi:10.28919/jmcs/4457</a>
 * **Nilforooshan, M.A.** 2020. Updating genetic relationship matrices and their inverses: A methodology note. *Can. J. Anim. Sci.* Early Access. <a href="https://doi.org/10.1139/CJAS-2019-0106" target="_blank">doi:10.1139/CJAS-2019-0106</a>
-* **Nilforooshan, M.A.** 2020. Application of single-step GBLUP in New Zealand Romney sheep. *Anim. Prod. Sci.* Early Access. <a href="https://doi.org/10.1071/AN19315" target="_blank">doi:10.1071/AN19315</a>
+* **Nilforooshan, M.A.** 2020. Application of single-step GBLUP in New Zealand Romney sheep. *Anim. Prod. Sci.* 60(9): 1136--1144. <a href="https://doi.org/10.1071/AN19315" target="_blank">doi:10.1071/AN19315</a>
 * **Nilforooshan, M.A.**, and M. Lee. 2019. The quality of the algorithm for proven and young with various sets of core animals in a multi-breed sheep population. *J. Anim. Sci.* 97(3): 1090--1100. <a href="https://doi.org/10.1093/jas/skz010" target="_blank">doi:10.1093/jas/skz010</a>
-* **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2014. Multiple-trait multiple country genetic evaluation of Holstein bulls for female fertility and milk production traits. *animal*, 8(6) 887--894. <a href="https://doi.org/10.1017/S1751731114000895" target="_blank">doi:10.1017/S1751731114000895</a>
+* **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2014. Multiple-trait multiple country genetic evaluation of Holstein bulls for female fertility and milk production traits. *animal* 8(6) 887--894. <a href="https://doi.org/10.1017/S1751731114000895" target="_blank">doi:10.1017/S1751731114000895</a>
 * Behdad, S., M.A. Edriss, **M.A. Nilforooshan**, and A.H. Movassagh. 2013. Wool characteristics of Bakhtiari sheep and the correlated responses to selection for pre-weaning daily gain. *Indian J. Anim. Sci.* <a href="http://epubs.icar.org.in/ejournal/index.php/IJAnS/article/view/26453" target="_blank">83(1): 82--85</a>.
 * **Nilforooshan, M.A.** 2011. Multiple-trait multiple country genetic evaluation of fertility traits in dairy cattle. Uppsala : Sveriges lantbruksuniv., *Acta Universitatis Agriculturae Sueciae*, 1652-6880 ; 2011:31. ISBN 978-91-576-7566-8 [<a href="https://pub.epsilon.slu.se/8094" target="_blank">Doctoral thesis</a>].
 * **Nilforooshan, M.A.**, W.F. Fikse, B. Berglund, J.H. Jakobsen, and H. Jorjani. 2011. Short communication: Quantifying bias in a single-trait international model ignoring covariances from multiple-trait national models. *J. Dairy Sci.* 94: 2631--2636. <a href="https://doi.org/10.3168/jds.2010-3863" target="_blank">doi:10.3168/jds.2010-3863</a>
@@ -140,4 +140,3 @@ Extension
 =========
 
 [Papers in Farsi](https://nilforooshan.github.io/resume/extension)
-
