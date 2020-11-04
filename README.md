@@ -20,14 +20,14 @@ Contact:
 <details>
 <summary>Resume</summary>
 
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/" target="_blank">HTML</a><br>
+&nbsp;&nbsp;&nbsp;[HTML](https://nilforooshan.github.io/resume)   
 &nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/resume.pdf" target="_blank">PDF</a>
 </details>
 
 <details>
 <summary>R course</summary>
 
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a><br>
+&nbsp;&nbsp;&nbsp;[Mexico, April 2015](https://nilforooshan.github.io/rmex)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
 </details>
 
@@ -39,9 +39,9 @@ Contact:
 &nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=pedSimulate" target="_blank">pedSimulate</a>
 </details>
 
+[Publications](https://nilforooshan.github.io/resume/publications)   
 <a href="https://github.com/nilforooshan/Link-resources/blob/master/README.md" target="_blank">Gists</a>
 
 ---
 
 [![GitHub](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/githubicon.png  "GitHub")](https://github.com/nilforooshan) [![GitHubGist](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/githubgisticon.png "GitHubGist")](https://gist.github.com/nilforooshan) [![GoogleScholar](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ)
-
