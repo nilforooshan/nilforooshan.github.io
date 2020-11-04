@@ -20,14 +20,14 @@ Contact:
 <details>
 <summary>Resume</summary>
 
-&nbsp;&nbsp;&nbsp;[HTML](https://nilforooshan.github.io/resume)   
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/" target="_blank">HTML</a><br>
 &nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/resume.pdf" target="_blank">PDF</a>
 </details>
 
 <details>
 <summary>R course</summary>
 
-&nbsp;&nbsp;&nbsp;[Mexico, April 2015](https://nilforooshan.github.io/rmex)   
+&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
 </details>
 
