@@ -1,7 +1,3 @@
----
-title: RESUME
----
-
 *Quantitative Geneticist*
 
 <img align="right" src="https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/CVimage.png">
