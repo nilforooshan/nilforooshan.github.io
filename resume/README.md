@@ -40,7 +40,7 @@ Awards
 Skills
 ======
 
-**Scientific:** Matrix Algebra, Quantitative Genetics and General Animal Breeding, Statistics, \"Big Data\", Occasional reviewer for some scientific journals  
+**Scientific:** Matrix Algebra, Quantitative Genetics and General Animal Breeding, Statistics, \"Big Data\", Reviewer for scientific journals  
 **Programming:** R, SAS, Fortran, Linux Shell scripting (Sed and Awk), Python, Markdown and RMarkdown, Git and GitHub, Docker, Julia (beginner), and C (beginner)  
 **Analytics:** Designing, streamlining and documenting genetic/genomic evaluation pipelines; experienced in several computer packages such as ASReml, DFReml, MiX99 and BLUPF90
 
@@ -132,7 +132,7 @@ Proceedings
 * **Nilforooshan, M.A.**, J. Jakobsen, F. Fikse, B. Berglund and H. Jorjani. 2009. <a href="https://journal.interbull.org/index.php/ib/article/view/1087" target="_blank">MT-MACE for female fertility and milk yield</a>. *Interbull Bulletin*. 40: 68--71. *Interbull Meeting*, Barcelona, Spain. August 21--24, 2009. [<a href="https://drive.google.com/file/d/0B2l_izQwJmVpRTlrOGE3OWluVnc/view?usp=sharing" target="_blank">slides file</a>]
 * **Nilforooshan, M.A.** 2009. <a href="https://drive.google.com/file/d/0B2l_izQwJmVpUC1TVkx2MVc1ZUE/view?usp=sharing" target="_blank">International genetic evaluations of fertility traits using MT-MACE</a>. Faculty research day, Faculty of Veterinary Medicine and Animal Science, Swedish University of Agricultural Sciences, Uppsala, Sweden. December 7, 2009.
 * **Nilforooshan, M.A.** 2009. International genetic evaluations of fertility traits using MT-MACE. 80th Anniversary of the Department of Animal Breeding and Genetics, Swedish University of Agricultural Sciences, Uppsala, Sweden, June 4, 2009.
-* **Nilforooshan, M.A.**, J. Jakobsen, F.W. Fikse, B. Berglund, and H. Jorjani. 2009. <a href="https://journal.interbull.org/index.php/ib/article/view/1073" target="_blank">International genetic evaluations of fertility traits using multi-trait MACE</a>. *Interbull Bulletin*. 39:99--102. Interbull Workshop on Genomic Information in Genetic Evaluations, Uppsala, Sweden. January 26--29, 2009. [<a href="https://drive.google.com/file/d/0B2l_izQwJmVpZG1sZlg2cF9zRWc/view?usp=sharing" target="_blank">slides file</a>]
+* **Nilforooshan, M.A.**, J. Jakobsen, F.W. Fikse, B. Berglund, and H. Jorjani. 2009. <a href="https://journal.interbull.org/index.php/ib/article/view/1073" target="_blank">International genetic evaluations for female fertility traits using multi-trait MACE</a>. *Interbull Bulletin*. 39:99--102. Interbull Workshop on Genomic Information in Genetic Evaluations, Uppsala, Sweden. January 26--29, 2009. [<a href="https://drive.google.com/file/d/0B2l_izQwJmVpZG1sZlg2cF9zRWc/view?usp=sharing" target="_blank">slides file</a>]
 * **Nilforooshan, M.A.**, F.W. Fikse and H. Jorjani. 2008. <a href="https://drive.google.com/file/d/0B2l_izQwJmVpQWdZaTFwTUNXOFk/view?usp=sharing" target="_blank">International genetic evaluations of fertility traits considering more than one trait per country</a>. *59th Annual meeting of the European Association for Animal Production*, Vilnius, Lithuania, Book of Abstracts No. 14: 268. [<a href="http://old.eaap.org/Previous_Annual_Meetings/2008Vilnius/Papers/published/35_Nilforooshan.pdf" target="_blank">slides file</a>]
 
 Extension
