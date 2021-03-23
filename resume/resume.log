@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  28 DEC 2020 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  23 MAR 2021 22:48
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -243,7 +243,7 @@ Overfull \hbox (54.135pt too wide) in paragraph at lines 34--41
 [1
 
 {C:/Users/monil0/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Overfull \hbox (8.78598pt too wide) in paragraph at lines 128--129
+Overfull \hbox (8.78598pt too wide) in paragraph at lines 130--131
 \OT1/cmr/m/n/10 Wool fiber qual-ity of Naeini sheep. \OT1/cmr/m/it/10 Pak. J. B
 iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. []doi:10.3923/pjbs.2006.270.276[] 
  []
@@ -252,7 +252,7 @@ iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. []doi:10.3923/pjbs.2006.270.276[]
 Here is how much of TeX's memory you used:
  4414 strings out of 479765
  71280 string characters out of 2865701
- 371098 words of memory out of 3000000
+ 370098 words of memory out of 3000000
  21390 multiletter control sequences out of 15000+200000
  537123 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -266,9 +266,9 @@ l0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (4 pages, 138901 bytes).
+Output written on resume.pdf (4 pages, 139325 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

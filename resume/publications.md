@@ -1,6 +1,7 @@
 Publications
 ============
 
+* **Nilforooshan, M.A.**, and D. Garrick. 2021. Reduced animal models fitting only equations for phenotyped animals. *Front. Genet.* 12:372. <a href="https://www.frontiersin.org/article/10.3389/fgene.2021.637626" target="_blank">doi:10.3389/fgene.2021.637626</a>
 * **Nilforooshan, M.A.** 2020. mbend: An R package for bending non-positive-deﬁnite symmetric matrices to positive-deﬁnite. *BMC Genet.* 21: 97. <a href="https://doi.org/10.1186/s12863-020-00881-z" target="_blank">doi:10.1186/s12863-020-00881-z</a>
 * **Nilforooshan, M.A.**, and L.A. Saavedra-Jiménez. 2020. ggroups: An R package for pedigree and genetic groups data. *Hereditas* 157: 17. <a href="https://doi.org/10.1186/s41065-020-00124-2" target="_blank">doi:10.1186/s41065-020-00124-2</a>
 * **Nilforooshan, M.A.** 2020. Memory-efficient self-cross-product for large matrices using R and Python. *J. Math. Comput. Sci.* 10(3): 497--506. <a href="https://doi.org/10.28919/jmcs/4457" target="_blank">doi:10.28919/jmcs/4457</a>
