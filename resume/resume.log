@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  23 MAR 2021 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  18 JUN 2021 10:40
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -242,21 +242,27 @@ Overfull \hbox (54.135pt too wide) in paragraph at lines 34--41
 
 [1
 
-{C:/Users/monil0/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Overfull \hbox (8.78598pt too wide) in paragraph at lines 130--131
+{C:/Users/monil0/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
+nguez, A. Ruz-Flores, J.G. Garca-
+ []
+
+[2]
+Overfull \hbox (8.78598pt too wide) in paragraph at lines 132--133
 \OT1/cmr/m/n/10 Wool fiber qual-ity of Naeini sheep. \OT1/cmr/m/it/10 Pak. J. B
 iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. []doi:10.3923/pjbs.2006.270.276[] 
  []
 
 [3] [4] ) 
 Here is how much of TeX's memory you used:
- 4414 strings out of 479765
- 71280 string characters out of 2865701
+ 4416 strings out of 479765
+ 71297 string characters out of 2865701
  370098 words of memory out of 3000000
- 21390 multiletter control sequences out of 15000+200000
+ 21392 multiletter control sequences out of 15000+200000
  537123 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,9n,72p,594b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,9n,72p,598b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/monil0/AppData/Local/Programs/Mi
@@ -266,7 +272,7 @@ l0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (4 pages, 139325 bytes).
+Output written on resume.pdf (4 pages, 140273 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
