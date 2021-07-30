@@ -1,8 +1,8 @@
 Publications
 ============
 
-* **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Alternative ways of computing the numerator relationship matrix. *Front. Genet.* Accepted.
 * Saavedra-Jiménez, L.A., R. Ramírez-Valverde, R. Núñez-Domínguez, A. Ruíz-Flores, J.G. García-Muñiz, and **M.A. Nilforooshan**. 2021. Effect of two phantom parent grouping strategies on the genetic evaluation of growth traits in Mexican Braunvieh cattle. *Rev. Mex. Cienc. Pecu.* Accepted.
+* **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Alternative ways of computing the numerator relationship matrix. *Front. Genet.* 12:1236. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.655638" target="_blank">doi:10.3389/fgene.2021.655638</a>
 * **Nilforooshan, M.A.**, and D. Garrick. 2021. Reduced animal models fitting only equations for phenotyped animals. *Front. Genet.* 12:372. <a href="https://www.frontiersin.org/article/10.3389/fgene.2021.637626" target="_blank">doi:10.3389/fgene.2021.637626</a>
 * **Nilforooshan, M.A.** 2020. mbend: An R package for bending non-positive-deﬁnite symmetric matrices to positive-deﬁnite. *BMC Genet.* 21: 97. <a href="https://doi.org/10.1186/s12863-020-00881-z" target="_blank">doi:10.1186/s12863-020-00881-z</a>
 * **Nilforooshan, M.A.**, and L.A. Saavedra-Jiménez. 2020. ggroups: An R package for pedigree and genetic groups data. *Hereditas* 157: 17. <a href="https://doi.org/10.1186/s41065-020-00124-2" target="_blank">doi:10.1186/s41065-020-00124-2</a>

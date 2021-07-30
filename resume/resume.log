@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  18 JUN 2021 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  30 JUL 2021 12:03
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -243,7 +243,7 @@ Overfull \hbox (54.135pt too wide) in paragraph at lines 34--41
 [1
 
 {C:/Users/monil0/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (1.30664pt too wide) in paragraph at lines 112--113
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 111--112
 []\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
 nguez, A. Ruz-Flores, J.G. Garca-
  []
@@ -272,9 +272,9 @@ l0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (4 pages, 140273 bytes).
+Output written on resume.pdf (4 pages, 140514 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
