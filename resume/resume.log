@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  30 JUL 2021 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  28 AUG 2021 21:51
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -243,15 +243,36 @@ Overfull \hbox (54.135pt too wide) in paragraph at lines 34--41
 [1
 
 {C:/Users/monil0/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (1.30664pt too wide) in paragraph at lines 111--112
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 115--116
 []\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
 nguez, A. Ruz-Flores, J.G. Garca-
  []
 
 [2]
-Overfull \hbox (8.78598pt too wide) in paragraph at lines 132--133
+Overfull \hbox (8.78598pt too wide) in paragraph at lines 136--137
 \OT1/cmr/m/n/10 Wool fiber qual-ity of Naeini sheep. \OT1/cmr/m/it/10 Pak. J. B
 iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. []doi:10.3923/pjbs.2006.270.276[] 
+ []
+
+
+Overfull \hbox (84.54395pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/10 Com-put-ing the Nu-mer-a-tor Re-la-tion-ship Ma-trix. \OT1/cmr/
+m/it/10 figshare\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. []doi:10.6084/m9.fi
+gshare.13497939.v1[] 
+ []
+
+
+Overfull \hbox (31.07162pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/10 Equa-tions for Phe-no-typed An-i-mals. \OT1/cmr/m/it/10 figshar
+e\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. []doi:10.6084/m9.figshare.13369607
+.v1[] 
+ []
+
+
+Overfull \hbox (29.62378pt too wide) in paragraph at lines 146--147
+[]\OT1/cmr/bx/n/10 Nilforooshan, M.A. \OT1/cmr/m/n/10 2021. mbend: Data, Code &
+ Re-sults. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . []doi:10.17632/kf3d
+8v8939.2[] 
  []
 
 [3] [4] ) 
@@ -272,9 +293,9 @@ l0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (4 pages, 140514 bytes).
+Output written on resume.pdf (4 pages, 143522 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
+ 130 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

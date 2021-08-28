@@ -26,6 +26,14 @@ Publications
 * **Nilforooshan, M.A.**, and M.A. Edriss. 2004. Effect of age at first calving on some productive and longevity traits in Iranian Holsteins of the Isfahan province. *J. Dairy Sci.* 87: 2130--2135. <a href="https://doi.org/10.3168/jds.S0022-0302(04)70032-6" target="_blank">doi:10.3168/jds.S0022-0302(04)70032-6</a>
 * **Nilforooshan, M.A.** 2003. Genetic Evaluation and Comparison between Domestic and Imported (Canada, USA, Europe) Sperms for Milk Yield, Fat Yield, and Fat Percentage in Some Dairy Farms of Isfahan Province. MSc Thesis. <a href="https://doi.org/10.5281/zenodo.4297235" target="_blank">doi:10.5281/zenodo.4297235</a>
 
+Data and Code
+=============
+
+* **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Code & Data -- Alternative Ways of Computing the Numerator Relationship Matrix. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13497939.v1" target="_blank">doi:10.6084/m9.figshare.13497939.v1</a>
+* **Nilforooshan, M.A.**, and D. Garrick. 2021. R examples -- Reduced Animal Models Fitting Only Equations for Phenotyped Animals. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13369607.v1" target="_blank">doi:10.6084/m9.figshare.13369607.v1</a>
+* **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. Mendeley Data. <a href="https://doi.org/10.17632/kf3d8v8939.2" target="_blank">doi:10.17632/kf3d8v8939.2</a>
+* **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. Mendeley Data. <a href="https://doi.org/10.17632/vk8vy7ghnf.2" target="_blank">doi:10.17632/vk8vy7ghnf.2</a>
+
 Proceedings
 ===========
 
