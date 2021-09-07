@@ -1,6 +1,7 @@
 Publications
 ============
 
+* **Nilforooshan, M.A.**, and H. Jorjani. 2021. INVITED REVIEW: A quarter of a century – International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* Accepted.
 * Saavedra-Jiménez, L.A., R. Ramírez-Valverde, R. Núñez-Domínguez, A. Ruíz-Flores, J.G. García-Muñiz, and **M.A. Nilforooshan**. 2021. Effect of two phantom parent grouping strategies on the genetic evaluation of growth traits in Mexican Braunvieh cattle. *Rev. Mex. Cienc. Pecu.* Accepted.
 * **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Alternative ways of computing the numerator relationship matrix. *Front. Genet.* 12:1236. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.655638" target="_blank">doi:10.3389/fgene.2021.655638</a>
 * **Nilforooshan, M.A.**, and D. Garrick. 2021. Reduced animal models fitting only equations for phenotyped animals. *Front. Genet.* 12:372. <a href="https://www.frontiersin.org/article/10.3389/fgene.2021.637626" target="_blank">doi:10.3389/fgene.2021.637626</a>
