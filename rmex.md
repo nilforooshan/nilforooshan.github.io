@@ -1,6 +1,5 @@
 ---
-layout: page
-title: R Course Mexico
+title: RMEX
 ---
 
 # R counrse in Mexico, April 2015

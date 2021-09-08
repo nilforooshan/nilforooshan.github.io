@@ -1,8 +1,3 @@
----
-layout: home
-title: About me
----
-
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0339-5442" href="https://orcid.org/0000-0003-0339-5442" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0339-5442</a></div>
 
 <img align="right" src="images/mohammad_nilforooshan.jpg">
@@ -19,10 +14,6 @@ Contact:
 > Postal address: LIC, Private Bag 3016, Hamilton 3240, New Zealand  
 > Physical address: LIC, 605 Ruakura Road, Newstead, Hamilton 3286, New Zealand  
 > Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
-
----
-
-**Keywords:** Quantitative Genetics, Statistical Genetics, Genetics and Genomics, Animal Breeding, Biometrics, Matrix Algebra
 
 ---
 
