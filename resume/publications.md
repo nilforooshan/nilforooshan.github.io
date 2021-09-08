@@ -1,3 +1,8 @@
+---
+layout: Page
+title: Publications
+---
+
 Publications
 ============
 
