@@ -1,8 +1,5 @@
----
-title: RMEX
----
-
-# R counrse in Mexico, April 2015
+R counrse in Mexico, April 2015
+===============================
 
 ![Image](images/IMG_1970.JPG)
 
