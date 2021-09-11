@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۵. هزینه پرورش تلیسه های جایگزین. ماهنامه گاودار،‌ شماره ۹۲: ۱۲ـ۱۴</div>
 
 <a href="https://drive.google.com/file/d/0B2l_izQwJmVpaW1nQ3BBQy1MMjQ/view?usp=sharing" target="_blank">The cost of raising replacements</a>

@@ -10,42 +10,23 @@ I received my PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics,
 My work experience is mainly on genetic/genomic evaluation of dairy cattle, but I also have experience in genetic/genomic evaluation of sheep and beef cattle.  
 My research interest is on methodological and computational aspects of quantitative genetics.
 
-
-Contact:  
-> Postal address: LIC, Private Bag 3016, Hamilton 3240, New Zealand  
-> Physical address: LIC, 605 Ruakura Road, Newstead, Hamilton 3286, New Zealand  
-> Email: [hgenman@gmail.com](mailto:hgenman@gmail.com)
-
 ---
 
 **Keywords:** Quantitative Genetics, Statistical Genetics, Genetics and Genomics, Animal Breeding, Biometrics, Matrix Algebra
 
 ---
 
-<details>
-<summary>Resume</summary>
+Resume: [[HTML](resume.md)] [[PDF](resume.pdf)]
 
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/" target="_blank">HTML</a><br>
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/resume/resume.pdf" target="_blank">PDF</a>
-</details>
+[Publications](publications.md)
 
-<details>
-<summary>R course</summary>
+[Teaching](teaching.md)
 
-&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rmex" target="_blank">Mexico, April 2015</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nilforooshan.github.io/rreview.html" target="_blank">Code review</a>
-</details>
+R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](ttps://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)]
 
-<details>
-<summary>R packages</summary>
+[Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)
 
-&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=ggroups" target="_blank">ggroups</a><br>
-&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=mbend" target="_blank">mbend</a><br>
-&nbsp;&nbsp;&nbsp;<a href="https://cran.r-project.org/package=pedSimulate" target="_blank">pedSimulate</a>
-</details>
-
-[Publications](https://nilforooshan.github.io/resume/publications)   
-<a href="https://github.com/nilforooshan/Link-resources/blob/master/README.md" target="_blank">Gists</a>
+[Contact](contact.md)
 
 ---
 

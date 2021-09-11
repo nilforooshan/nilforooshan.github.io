@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 R counrse in Mexico, April 2015
 ===============================
 
