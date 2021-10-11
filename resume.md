@@ -14,8 +14,9 @@ Contact Information
 LIC, Private Bag 3016, Hamilton 3240, New Zealand  
 E-mail: mohammad.nilforooshan\@lic.co.nz  
 Website: <https://nilforooshan.github.io>  
+ORCiD: <https://orcid.org/0000-0003-0339-5442>  
+Google Scholar: <https://goo.gl/iKbCoU>  
 GitHub: <https://github.com/nilforooshan>  
-Google Scholar: <https://goo.gl/iKbCoU>
 
 Interests
 =========

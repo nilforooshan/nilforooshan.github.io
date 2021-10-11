@@ -1,4 +1,4 @@
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0339-5442" href="https://orcid.org/0000-0003-0339-5442" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0339-5442</a></div>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0339-5442" href="https://orcid.org/0000-0003-0339-5442" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCiD iD icon">https://orcid.org/0000-0003-0339-5442</a></div>
 
 <img align="right" src="images/mohammad_nilforooshan.jpg">
 
@@ -30,4 +30,4 @@ R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](ttp
 
 ---
 
-[![GitHub](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/githubicon.png  "GitHub")](https://github.com/nilforooshan) [![GitHubGist](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/githubgisticon.png "GitHubGist")](https://gist.github.com/nilforooshan) [![GoogleScholar](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ) [![Loop](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview)
+[![GitHub](images/githubicon.png  "GitHub")](https://github.com/nilforooshan) [![GitHubGist](images/githubgisticon.png "GitHubGist")](https://gist.github.com/nilforooshan) [![GoogleScholar](images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ) [![Loop](images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview) [![Publons](images/publons-logo.png "Publons")](https://publons.com/researcher/3061350/mohammad-ali-nilforooshan/)
