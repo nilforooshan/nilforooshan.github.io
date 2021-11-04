@@ -5,8 +5,9 @@ layout: default
 Publications
 ============
 
-* **Nilforooshan, M.A.**, and H. Jorjani. 2021. INVITED REVIEW: A quarter of a century – International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* Accepted.
+* **Nilforooshan, M.A.**, and H. Jorjani. 2021. INVITED REVIEW: A quarter of a century&mdash;International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* In Press. <a href="https://doi.org/10.3168/jds.2021-20927" target="_blank">doi:10.3168/jds.2021-20927</a>
 * Saavedra-Jiménez, L.A., R. Ramírez-Valverde, R. Núñez-Domínguez, A. Ruíz-Flores, J.G. García-Muñiz, and **M.A. Nilforooshan**. 2021. Effect of two phantom parent grouping strategies on the genetic evaluation of growth traits in Mexican Braunvieh cattle. *Rev. Mex. Cienc. Pecu.* Accepted.
+* Harris, B., E. Reynolds, C. Couldrey, **M.A. Nilforooshan**, A. Winkelman, and R. Sherlock. 2021. Genomic evaluations for crossbreed dairy cattle. *J. Dairy Sci.* 104(Supplement 1): 356. <a href="https://www.adsa.org/Portals/0/SiteContent/Docs/Meetings/2021ADSA/ADSA2021_Abstracts.pdf" target="_blank">S148</a>.
 * **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Alternative ways of computing the numerator relationship matrix. *Front. Genet.* 12:1236. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.655638" target="_blank">doi:10.3389/fgene.2021.655638</a>
 * **Nilforooshan, M.A.**, and D. Garrick. 2021. Reduced animal models fitting only equations for phenotyped animals. *Front. Genet.* 12:372. <a href="https://www.frontiersin.org/article/10.3389/fgene.2021.637626" target="_blank">doi:10.3389/fgene.2021.637626</a>
 * **Nilforooshan, M.A.** 2020. mbend: An R package for bending non-positive-deﬁnite symmetric matrices to positive-deﬁnite. *BMC Genet.* 21: 97. <a href="https://doi.org/10.1186/s12863-020-00881-z" target="_blank">doi:10.1186/s12863-020-00881-z</a>
