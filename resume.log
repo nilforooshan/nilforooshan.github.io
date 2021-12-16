@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.4)  4 NOV 2021 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.4)  17 DEC 2021 12:01
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -182,6 +182,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 3.
+
 (C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
@@ -189,25 +191,53 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box50
 )
 No file resume.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-Package hyperref Info: Link coloring OFF on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+(C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+
+(C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen146
+\scratchbox=\box51
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen147
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks23
+)))
+Package hyperref Info: Link coloring ON on input line 26.
+
 (C:\Users\monil0\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -218,71 +248,90 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 tlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count268
+\c@section@level=\count274
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 36.
  [1
 
 {C:/Users/monil0/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (1.30664pt too wide) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 122--123
 []\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
 nguez, A. Ruz-Flores, J.G. Garca-
  []
 
 [2]
-Overfull \hbox (8.78598pt too wide) in paragraph at lines 136--137
+Overfull \hbox (8.78598pt too wide) in paragraph at lines 144--145
 \OT1/cmr/m/n/10 Wool fiber qual-ity of Naeini sheep. \OT1/cmr/m/it/10 Pak. J. B
-iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. []doi:10.3923/pjbs.2006.270.276[] 
+iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. [][]doi:10.3923/pjbs.2006.270.276[][]
+ 
  []
 
 
-Overfull \hbox (84.54395pt too wide) in paragraph at lines 144--145
+Overfull \hbox (22.46013pt too wide) in paragraph at lines 153--154
+\OT1/cmr/m/n/10 com-put-ing the in-verse of a nu-mer-a-tor re-la-tion-ship ma-t
+rix. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . [][]doi:10.17632/db9pd7ns
+6d.2[][] 
+ []
+
+
+Overfull \hbox (84.54395pt too wide) in paragraph at lines 155--156
 \OT1/cmr/m/n/10 Com-put-ing the Nu-mer-a-tor Re-la-tion-ship Ma-trix. \OT1/cmr/
-m/it/10 figshare\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. []doi:10.6084/m9.fi
-gshare.13497939.v1[] 
+m/it/10 figshare\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. [][]doi:10.6084/m9.
+figshare.13497939.v1[][] 
  []
 
 
-Overfull \hbox (31.07162pt too wide) in paragraph at lines 145--146
+Overfull \hbox (31.07162pt too wide) in paragraph at lines 156--157
 \OT1/cmr/m/n/10 Equa-tions for Phe-no-typed An-i-mals. \OT1/cmr/m/it/10 figshar
-e\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. []doi:10.6084/m9.figshare.13369607
-.v1[] 
+e\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. [][]doi:10.6084/m9.figshare.133696
+07.v1[][] 
  []
 
-
-Overfull \hbox (29.62378pt too wide) in paragraph at lines 146--147
+[3]
+Overfull \hbox (29.62378pt too wide) in paragraph at lines 157--158
 []\OT1/cmr/bx/n/10 Nilforooshan, M.A. \OT1/cmr/m/n/10 2021. mbend: Data, Code &
- Re-sults. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . []doi:10.17632/kf3d
-8v8939.2[] 
+ Re-sults. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . [][]doi:10.17632/kf
+3d8v8939.2[][] 
  []
 
-[3] [4] [5] ) 
+[4] [5] ) 
 Here is how much of TeX's memory you used:
- 7108 strings out of 478907
- 107749 string characters out of 2851418
- 418579 words of memory out of 3000000
- 24949 multiletter control sequences out of 15000+600000
+ 7633 strings out of 478907
+ 114979 string characters out of 2851418
+ 426973 words of memory out of 3000000
+ 25460 multiletter control sequences out of 15000+600000
  405465 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,598b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/monil0/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/monil0/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/monil0/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/monil0
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Us
-ers/monil0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.
-pfb>
-Output written on resume.pdf (5 pages, 152856 bytes).
+ 60i,5n,66p,598b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/monil0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/monil0/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/monil0/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/monil0/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/monil0/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mo
+nil0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Users/monil0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
+t10.pfb>
+Output written on resume.pdf (5 pages, 163497 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
