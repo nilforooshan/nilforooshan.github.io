@@ -5,6 +5,7 @@ layout: default
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* In Press.
 * **Nilforooshan, M.A.**, and H. Jorjani. 2022. INVITED REVIEW: A quarter of a century&mdash;International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* 105(1): 3--21. <a href="https://doi.org/10.3168/jds.2021-20927" target="_blank">doi:10.3168/jds.2021-20927</a>
 * Saavedra-Jiménez, L.A., R. Ramírez-Valverde, R. Núñez-Domínguez, A. Ruíz-Flores, J.G. García-Muñiz, and **M.A. Nilforooshan**. 2021. Effect of two phantom parent grouping strategies on the genetic evaluation of growth traits in Mexican Braunvieh cattle. *Rev. Mex. Cienc. Pecu.* 12(3): 878-892. <a href="https://doi.org/10.22319/rmcp.v12i3.5562" target="_blank">doi:10.22319/rmcp.v12i3.5562</a>
 * Harris, B., E. Reynolds, C. Couldrey, **M.A. Nilforooshan**, A. Winkelman, and R. Sherlock. 2021. Genomic evaluations for crossbreed dairy cattle. *J. Dairy Sci.* 104(Supplement 1): 356. <a href="https://www.adsa.org/Portals/0/SiteContent/Docs/Meetings/2021ADSA/ADSA2021_Abstracts.pdf" target="_blank">S148</a>.
@@ -35,13 +36,13 @@ Publications
 Data and Code
 =============
 
-* **Nilforooshan, M.A.** 2021. Code & data -- Further improvement of bending performance for conditioning covariance matrices. Mendeley Data. <a href="https://doi.org/10.17632/gnyrym4mv4.2" target="_blank">doi:10.17632/gnyrym4mv4.2</a>
+* **Nilforooshan, M.A.** 2021. Code & data -- Further improvement of bending performance for conditioning covariance matrices. Mendeley Data. <a href="https://doi.org/10.17632/gnyrym4mv4.3" target="_blank">doi:10.17632/gnyrym4mv4.3</a>
 * **Nilforooshan, M.A.** 2021. Code -- A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. Mendeley Data. <a href="https://doi.org/10.17632/db9pd7ns6d.2" target="_blank">doi:10.17632/db9pd7ns6d.2</a>
-* **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. Mendeley Data. <a href="https://doi.org/10.17632/c4pv8w8pmp.1" target="_blank">doi:10.17632/c4pv8w8pmp.1</a>
+* **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. Mendeley Data. <a href="https://doi.org/10.17632/c4pv8w8pmp.2" target="_blank">doi:10.17632/c4pv8w8pmp.2</a>
 * **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Code & Data -- Alternative Ways of Computing the Numerator Relationship Matrix. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13497939.v1" target="_blank">doi:10.6084/m9.figshare.13497939.v1</a>
 * **Nilforooshan, M.A.**, and D. Garrick. 2021. R examples -- Reduced Animal Models Fitting Only Equations for Phenotyped Animals. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13369607.v1" target="_blank">doi:10.6084/m9.figshare.13369607.v1</a>
-* **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. Mendeley Data. <a href="https://doi.org/10.17632/kf3d8v8939.2" target="_blank">doi:10.17632/kf3d8v8939.2</a>
-* **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. Mendeley Data. <a href="https://doi.org/10.17632/vk8vy7ghnf.2" target="_blank">doi:10.17632/vk8vy7ghnf.2</a>
+* **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. Mendeley Data. <a href="https://doi.org/10.17632/kf3d8v8939.1" target="_blank">doi:10.17632/kf3d8v8939.1</a>
+* **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. Mendeley Data. <a href="https://doi.org/10.17632/vk8vy7ghnf.1" target="_blank">doi:10.17632/vk8vy7ghnf.1</a>
 
 Proceedings
 ===========
