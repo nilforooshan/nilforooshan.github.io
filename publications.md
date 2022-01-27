@@ -5,7 +5,7 @@ layout: default
 Publications
 ============
 
-* **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* In Press.
+* **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* 257: 104848. <a href="https://doi.org/10.1016/j.livsci.2022.104848" target="_blank">doi:10.1016/j.livsci.2022.104848</a>
 * **Nilforooshan, M.A.**, and H. Jorjani. 2022. INVITED REVIEW: A quarter of a century&mdash;International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* 105(1): 3--21. <a href="https://doi.org/10.3168/jds.2021-20927" target="_blank">doi:10.3168/jds.2021-20927</a>
 * Saavedra-Jiménez, L.A., R. Ramírez-Valverde, R. Núñez-Domínguez, A. Ruíz-Flores, J.G. García-Muñiz, and **M.A. Nilforooshan**. 2021. Effect of two phantom parent grouping strategies on the genetic evaluation of growth traits in Mexican Braunvieh cattle. *Rev. Mex. Cienc. Pecu.* 12(3): 878-892. <a href="https://doi.org/10.22319/rmcp.v12i3.5562" target="_blank">doi:10.22319/rmcp.v12i3.5562</a>
 * Harris, B., E. Reynolds, C. Couldrey, **M.A. Nilforooshan**, A. Winkelman, and R. Sherlock. 2021. Genomic evaluations for crossbreed dairy cattle. *J. Dairy Sci.* 104(Supplement 1): 356. <a href="https://www.adsa.org/Portals/0/SiteContent/Docs/Meetings/2021ADSA/ADSA2021_Abstracts.pdf" target="_blank">S148</a>.

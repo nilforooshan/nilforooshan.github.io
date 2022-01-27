@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.6)  21 JAN 2022 10:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.6)  27 JAN 2022 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,6 +258,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--108
  []
 
 
+Overfull \hbox (32.99362pt too wide) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 the in-verse of a nu-mer-a-tor re-la-tion-ship ma-trix. \OT1/cm
+r/m/it/10 Livest. Sci. \OT1/cmr/m/n/10 257: 104848. [][]doi:10.1016/j.livsci.20
+22.104848[][] 
+ []
+
+
 Overfull \hbox (1.30664pt too wide) in paragraph at lines 123--124
 []\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
 nguez, A. Ruz-Flores, J.G. Garca-
@@ -321,9 +328,9 @@ pfb></home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ome/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></hom
 e/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/
 mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (5 pages, 163449 bytes).
+Output written on resume.pdf (5 pages, 163703 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
