@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.6)  28 JAN 2022 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.6)  30 JAN 2022 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,9 +328,9 @@ pfb></home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ome/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></hom
 e/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/
 mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (5 pages, 163701 bytes).
+Output written on resume.pdf (5 pages, 163412 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 152 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
