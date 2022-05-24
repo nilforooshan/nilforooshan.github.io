@@ -38,6 +38,7 @@ Publications
 Data and Code
 =============
 
+* **Nilforooshan, M.A.** 2022. Reduced Animal Model for ssGBLUP. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.16455681.v1" target="_blank">doi:10.6084/m9.figshare.16455681.v1</a>
 * **Nilforooshan, M.A.** 2021. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. Mendeley Data. <a href="https://doi.org/10.17632/gnyrym4mv4.3" target="_blank">doi:10.17632/gnyrym4mv4.3</a>
 * **Nilforooshan, M.A.** 2021. Code &ndash; A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. Mendeley Data. <a href="https://doi.org/10.17632/db9pd7ns6d.2" target="_blank">doi:10.17632/db9pd7ns6d.2</a>
 * **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. Mendeley Data. <a href="https://doi.org/10.17632/c4pv8w8pmp.2" target="_blank">doi:10.17632/c4pv8w8pmp.2</a>
