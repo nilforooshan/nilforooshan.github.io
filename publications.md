@@ -5,6 +5,7 @@ layout: default
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2022. pedSimulate &ndash; An R package for simulating pedigree, genetic merit, phenotype, and genotype data. *R. Bras. Zootec.* In Press.
 * **Nilforooshan, M.A.** 2022. Compensating for the increase in the sum of eigenvalues and monitoring the bending performance for conditioning covariance matrices in multi-trait livestock evaluations. *animal - Open Space* 1(1): 100005. <a href="https://doi.org/10.1016/j.anopes.2022.100005" target="_blank">doi:10.1016/j.anopes.2022.100005</a>
 * **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* 257: 104848. <a href="https://doi.org/10.1016/j.livsci.2022.104848" target="_blank">doi:10.1016/j.livsci.2022.104848</a>
 * **Nilforooshan, M.A.**, and H. Jorjani. 2022. INVITED REVIEW: A quarter of a century&mdash;International genetic evaluation of dairy sires using MACE methodology. *J. Dairy Sci.* 105(1): 3&ndash;21. <a href="https://doi.org/10.3168/jds.2021-20927" target="_blank">doi:10.3168/jds.2021-20927</a>
