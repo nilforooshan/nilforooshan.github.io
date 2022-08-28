@@ -104,6 +104,7 @@ Review and Editorial Contributions
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2022. Technical note: Extension of the reduced animal model to single-step methods. *J. Anim. Sci.* In Press.
 * **Nilforooshan, M.A.** 2022. pedSimulate &ndash; An R package for simulating pedigree, genetic merit, phenotype, and genotype data. *R. Bras. Zootec.* In Press.
 * **Nilforooshan, M.A.** 2022. Compensating for the increase in the sum of eigenvalues and monitoring the bending performance for conditioning covariance matrices in multi-trait livestock evaluations. *animal - Open Space* 1(1): 100005. <a href="https://doi.org/10.1016/j.anopes.2022.100005" target="_blank">doi:10.1016/j.anopes.2022.100005</a>
 * **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* 257: 104848. <a href="https://doi.org/10.1016/j.livsci.2022.104848" target="_blank">doi:10.1016/j.livsci.2022.104848</a>
@@ -138,18 +139,20 @@ Publications
 Data and Code
 =============
 
-* **Nilforooshan, M.A.** 2022. Reduced Animal Model for ssGBLUP. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.16455681.v1" target="_blank">doi:10.6084/m9.figshare.16455681.v1</a>
-* **Nilforooshan, M.A.** 2021. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. Mendeley Data. <a href="https://doi.org/10.17632/gnyrym4mv4.3" target="_blank">doi:10.17632/gnyrym4mv4.3</a>
-* **Nilforooshan, M.A.** 2021. Code &ndash; A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. Mendeley Data. <a href="https://doi.org/10.17632/db9pd7ns6d.2" target="_blank">doi:10.17632/db9pd7ns6d.2</a>
-* **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. Mendeley Data. <a href="https://doi.org/10.17632/c4pv8w8pmp.2" target="_blank">doi:10.17632/c4pv8w8pmp.2</a>
-* **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Code & Data &ndash; Alternative Ways of Computing the Numerator Relationship Matrix. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13497939.v1" target="_blank">doi:10.6084/m9.figshare.13497939.v1</a>
-* **Nilforooshan, M.A.**, and D. Garrick. 2021. R examples &ndash; Reduced Animal Models Fitting Only Equations for Phenotyped Animals. figshare. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13369607.v1" target="_blank">doi:10.6084/m9.figshare.13369607.v1</a>
-* **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. Mendeley Data. <a href="https://doi.org/10.17632/kf3d8v8939.1" target="_blank">doi:10.17632/kf3d8v8939.1</a>
-* **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. Mendeley Data. <a href="https://doi.org/10.17632/vk8vy7ghnf.1" target="_blank">doi:10.17632/vk8vy7ghnf.1</a>
+* **Nilforooshan, M.A.** 2022. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). *figshare*. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.20539650.v1" target="_blank">doi:10.6084/m9.figshare.20539650.v1</a>
+* **Nilforooshan, M.A.** 2022. Reduced Animal Model for ssGBLUP. *figshare*. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.16455681.v1" target="_blank">doi:10.6084/m9.figshare.16455681.v1</a>
+* **Nilforooshan, M.A.** 2021. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. *Mendeley Data*. <a href="https://doi.org/10.17632/gnyrym4mv4.3" target="_blank">doi:10.17632/gnyrym4mv4.3</a>
+* **Nilforooshan, M.A.** 2021. Code &ndash; A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. *Mendeley Data*. <a href="https://doi.org/10.17632/db9pd7ns6d.2" target="_blank">doi:10.17632/db9pd7ns6d.2</a>
+* **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. *Mendeley Data*. <a href="https://doi.org/10.17632/c4pv8w8pmp.2" target="_blank">doi:10.17632/c4pv8w8pmp.2</a>
+* **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Code & Data &ndash; Alternative Ways of Computing the Numerator Relationship Matrix. *figshare*. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13497939.v1" target="_blank">doi:10.6084/m9.figshare.13497939.v1</a>
+* **Nilforooshan, M.A.**, and D. Garrick. 2021. R examples &ndash; Reduced Animal Models Fitting Only Equations for Phenotyped Animals. *figshare*. Journal contribution. <a href="https://doi.org/10.6084/m9.figshare.13369607.v1" target="_blank">doi:10.6084/m9.figshare.13369607.v1</a>
+* **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. *Mendeley Data*. <a href="https://doi.org/10.17632/kf3d8v8939.1" target="_blank">doi:10.17632/kf3d8v8939.1</a>
+* **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. *Mendeley Data*. <a href="https://doi.org/10.17632/vk8vy7ghnf.1" target="_blank">doi:10.17632/vk8vy7ghnf.1</a>
 
 Proceedings
 ===========
 
+* Harris, B.L., R.G. Sherlock, and **M.A. Nilforooshan**. 2022. <a href="https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/19_016.pdf" target="_blank">Large-scale multiple-trait single-step marker model implementation</a>. *12th World Congress on Genetics Applied to Livestock Production*, Rotterdam, The Netherlands. July, 3&ndash;8, 2022.
 * **Nilforooshan, M.A.**, B. Auvray, and M. Lee. 2018. <a href="https://www.researchgate.net/publication/358198782_Animal-specific_combining_of_the_GRM_and_the_NRM_in_single-step_GBLUP" target="_blank">Animal-specific combining of the GRM and the NRM in single-step GBLUP</a>. *11th World Congress on Genetics Applied to Livestock Production*, Auckland, New Zealand. February, 11&ndash;16, 2018. [<a href="https://doi.org/10.13140/RG.2.2.25768.03843" target="_blank">poster file</a>]
 * Pabiou, T., **M.A. Nilforooshan**, E. Venot, and K. Moore. 2015. <a href="https://www.researchgate.net/publication/358198790_Interbeef_presents_new_opportunities_for_beef_farmers" target="_blank">Interbeef presents new opportunities for beef farmers</a>. *British Cattle Conference*, Telford, England. January 19&ndash;21, 2015.
 * Pabiou, T., **M.A. Nilforooshan**, D. Laloe, E. Hjerpe, and E. Venot. 2014. <a href="https://www.researchgate.net/publication/268110020_ACROSS-COUNTRY_GENETIC_PARAMETERS_IN_BEEF_CATTLE_FOR_INTERBEEF_WEANING_WEIGHT_GENETIC_EVALUATION" target="_blank">Across-Country Genetic Parameters in Beef Cattle for Interbeef Weaning Weight Genetic Evaluation</a>. *10th World Congress on Genetics Applied to Livestock Production*, Vancouver, Canada. August, 17&ndash;22, 2014. [<a href="http://dx.doi.org/10.13140/RG.2.2.33036.80003" target="_blank">poster file</a>]

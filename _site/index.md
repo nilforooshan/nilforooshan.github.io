@@ -22,12 +22,13 @@ Resume: [[HTML](resume.md)] [[PDF](resume.pdf)]
 
 [Teaching](teaching.md)
 
-R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](ttps://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)]
-
-[Gists](https://github.com/nilforooshan/Link-resources/blob/master/README.md)
+R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](https://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)]
 
 [Contact](contact.md)
 
 ---
 
-[![GitHub](images/githubicon.png  "GitHub")](https://github.com/nilforooshan) [![GitHubGist](images/githubgisticon.png "GitHubGist")](https://gist.github.com/nilforooshan) [![GoogleScholar](images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ) [![Loop](images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview) [![Publons](images/publons-logo.png "Publons")](https://publons.com/researcher/3061350/mohammad-ali-nilforooshan/)
+[![GitHub](images/githubicon.png  "GitHub")](https://github.com/nilforooshan)
+[![GoogleScholar](images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ)
+[![Loop](images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview)
+[![WEBofSCI](images/Web-of-Sci-logo.png "WofS")](https://www.webofscience.com/wos/author/record/GQH-1837-2022)

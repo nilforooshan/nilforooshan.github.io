@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.1.6)  30 MAY 2022 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.1.6)  28 AUG 2022 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,54 +258,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--108
  []
 
 
-Overfull \hbox (32.99362pt too wide) in paragraph at lines 123--124
+Overfull \hbox (32.99362pt too wide) in paragraph at lines 124--125
 \OT1/cmr/m/n/10 the in-verse of a nu-mer-a-tor re-la-tion-ship ma-trix. \OT1/cm
 r/m/it/10 Livest. Sci. \OT1/cmr/m/n/10 257: 104848. [][]doi:10.1016/j.livsci.20
 22.104848[][] 
  []
 
 
-Overfull \hbox (1.30664pt too wide) in paragraph at lines 126--127
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 127--128
 []\OT1/cmr/m/n/10 Saavedra-Jimenez, L.A., R. Ramrez-Valverde, R. Nu~nez-Dom
 nguez, A. Ruz-Flores, J.G. Garca-
  []
 
 [2]
-Overfull \hbox (0.90105pt too wide) in paragraph at lines 146--147
+Overfull \hbox (0.90105pt too wide) in paragraph at lines 147--148
 \OT1/cmr/m/n/10 milk traits in Is-fa-han province in Iran. \OT1/cmr/m/it/10 Arc
 h. Tierz., Dum-mer-storf \OT1/cmr/m/n/10 50(1): 71--83. [][]doi:10.5194/aab-
  []
 
 
-Overfull \hbox (8.78598pt too wide) in paragraph at lines 148--149
+Overfull \hbox (8.78598pt too wide) in paragraph at lines 149--150
 \OT1/cmr/m/n/10 Wool fiber qual-ity of Naeini sheep. \OT1/cmr/m/it/10 Pak. J. B
 iol. Sci. \OT1/cmr/m/n/10 9(2): 270--276. [][]doi:10.3923/pjbs.2006.270.276[][]
  
  []
 
 [3]
-Overfull \hbox (22.46013pt too wide) in paragraph at lines 158--159
+Overfull \hbox (22.46013pt too wide) in paragraph at lines 160--161
 \OT1/cmr/m/n/10 com-put-ing the in-verse of a nu-mer-a-tor re-la-tion-ship ma-t
 rix. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . [][]doi:10.17632/db9pd7ns
 6d.2[][] 
  []
 
 
-Overfull \hbox (84.54395pt too wide) in paragraph at lines 160--161
+Overfull \hbox (84.54395pt too wide) in paragraph at lines 162--163
 \OT1/cmr/m/n/10 Com-put-ing the Nu-mer-a-tor Re-la-tion-ship Ma-trix. \OT1/cmr/
 m/it/10 figshare\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. [][]doi:10.6084/m9.
 figshare.13497939.v1[][] 
  []
 
 
-Overfull \hbox (31.07162pt too wide) in paragraph at lines 161--162
+Overfull \hbox (31.07162pt too wide) in paragraph at lines 163--164
 \OT1/cmr/m/n/10 Equa-tions for Phe-no-typed An-i-mals. \OT1/cmr/m/it/10 figshar
 e\OT1/cmr/m/n/10 , Jour-nal con-tri-bu-tion. [][]doi:10.6084/m9.figshare.133696
 07.v1[][] 
  []
 
 
-Overfull \hbox (29.62378pt too wide) in paragraph at lines 162--163
+Overfull \hbox (29.62378pt too wide) in paragraph at lines 164--165
 []\OT1/cmr/bx/n/10 Nilforooshan, M.A. \OT1/cmr/m/n/10 2021. mbend: Data, Code &
  Re-sults. \OT1/cmr/m/it/10 Mende-ley Data\OT1/cmr/m/n/10 . [][]doi:10.17632/kf
 3d8v8939.1[][] 
@@ -315,11 +315,11 @@ Overfull \hbox (29.62378pt too wide) in paragraph at lines 162--163
 Here is how much of TeX's memory you used:
  7913 strings out of 478660
  124296 string characters out of 2851170
- 432333 words of memory out of 3000000
+ 431333 words of memory out of 3000000
  25967 multiletter control sequences out of 15000+600000
  405465 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,650b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,63p,650b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb></home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb></home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.
@@ -328,9 +328,9 @@ pfb></home/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ome/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></hom
 e/mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/
 mnil/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (5 pages, 166555 bytes).
+Output written on resume.pdf (5 pages, 168144 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 158 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
