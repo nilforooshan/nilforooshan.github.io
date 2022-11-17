@@ -2,11 +2,20 @@
 layout: default
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28DM9J1LV8');
+</script>
 <base target="_blank">
 
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2022. A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. *Animals* 12: In Press.
 * **Nilforooshan, M.A.**, and A. Ruíz-Flores. 2022. Understanding factors influencing the estimated genetic variance and the distribution of breeding values. *Front. Genet.* 13: 1000228. [doi:10.3389/fgene.2022.1000228](https://doi.org/10.3389/fgene.2022.1000228)
 * **Nilforooshan, M.A.** 2022. Technical note: Extension of the reduced animal model to single-step methods. *J. Anim. Sci.* Epub ahead of print. [doi:10.1093/jas/skac272](https://doi.org/10.1093/jas/skac272)
 * **Nilforooshan, M.A.** 2022. pedSimulate &ndash; An R package for simulating pedigree, genetic merit, phenotype, and genotype data. *R. Bras. Zootec.* 51: e20210131. [doi:10.37496/rbz5120210131](https://doi.org/10.37496/rbz5120210131)
@@ -43,8 +52,9 @@ Publications
 Data and Code
 =============
 
+* **Nilforooshan, M.A.** 2022. Code & data &mdash; A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. *Mendeley Data*. [doi:10.17632/cn9jzpj7fg.1](https://doi.org/110.17632/cn9jzpj7fg.1)
 * **Nilforooshan, M.A.** 2022. Code & data &mdash; Understanding factors influencing the estimated genetic variance and the distribution of breeding values. *Mendeley Data*. [doi:10.17632/zd3xx54j62.3](https://doi.org/10.17632/zd3xx54j62.3)
-* **Nilforooshan, M.A.** 2022. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). *figshare*. [doi:10.6084/m9.figshare.20539650.v1](https://doi.org/10.6084/m9.figshare.20539650.v1)
+* **Nilforooshan, M.A.** 2022. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). *figshare*. [doi:10.6084/m9.figshare.20539650.v2](https://doi.org/10.6084/m9.figshare.20539650.v2)
 * **Nilforooshan, M.A.** 2022. Reduced Animal Model for ssGBLUP. *figshare*. [doi:10.6084/m9.figshare.16455681.v1](https://doi.org/10.6084/m9.figshare.16455681.v1)
 * **Nilforooshan, M.A.** 2021. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. *Mendeley Data*. [doi:10.17632/gnyrym4mv4.3](https://doi.org/10.17632/gnyrym4mv4.3)
 * **Nilforooshan, M.A.** 2021. Code &ndash; A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. *Mendeley Data*. [doi:10.17632/db9pd7ns6d.2](https://doi.org/10.17632/db9pd7ns6d.2)

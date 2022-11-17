@@ -1,3 +1,11 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28DM9J1LV8');
+</script>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0339-5442" href="https://orcid.org/0000-0003-0339-5442" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCiD iD icon">https://orcid.org/0000-0003-0339-5442</a></div>
 
 <img align="right" src="images/mohammad_nilforooshan.jpg">
@@ -32,3 +40,4 @@ R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](htt
 [![GoogleScholar](images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ)
 [![Loop](images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview)
 [![WEBofSCI](images/Web-of-Sci-logo.png "WofS")](https://www.webofscience.com/wos/author/record/GQH-1837-2022)
+[![SciProfiles](images/sci-profiles-logo.png  "SciProfiles")](https://sciprofiles.com/profile/manilforooshan)

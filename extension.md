@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28DM9J1LV8');
+</script>
 <base target="_blank">
 
 <div style="text-align: right">.نیلفروشان، م. ع. ۲۰۰۵. هزینه پرورش تلیسه های جایگزین. ماهنامه گاودار،‌ شماره ۹۲: ۱۲ـ۱۴</div>
