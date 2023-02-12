@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

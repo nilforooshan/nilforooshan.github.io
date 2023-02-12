@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -114,10 +110,10 @@ Review and Editorial Contributions
 Publications
 ============
 
+* **Nilforooshan, M.A.** 2023. Technical note: Extension of the reduced animal model to single-step methods. *J. Anim. Sci.* 101: skac272. [doi:10.1093/jas/skac272](https://doi.org/10.1093/jas/skac272)
 * **Nilforooshan, M.A.** 2022. The algorithm for proven and young (APY) from a different perspective. *bioRxiv*. [doi:10.1101/2022.11.23.517757](https://doi.org/10.1101/2022.11.23.517757)
 * **Nilforooshan, M.A.** 2022. A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. *Animals* 12: 3208. [doi:10.3390/ani12223208](https://doi.org/10.3390/ani12223208)
 * **Nilforooshan, M.A.**, and A. Ruíz-Flores. 2022. Understanding factors influencing the estimated genetic variance and the distribution of breeding values. *Front. Genet.* 13: 1000228. [doi:10.3389/fgene.2022.1000228](https://doi.org/10.3389/fgene.2022.1000228)
-* **Nilforooshan, M.A.** 2022. Technical note: Extension of the reduced animal model to single-step methods. *J. Anim. Sci.* Epub ahead of print. [doi:10.1093/jas/skac272](https://doi.org/10.1093/jas/skac272)
 * **Nilforooshan, M.A.** 2022. pedSimulate &ndash; An R package for simulating pedigree, genetic merit, phenotype, and genotype data. *R. Bras. Zootec.* 51: e20210131. [doi:10.37496/rbz5120210131](https://doi.org/10.37496/rbz5120210131)
 * **Nilforooshan, M.A.** 2022. Compensating for the increase in the sum of eigenvalues and monitoring the bending performance for conditioning covariance matrices in multi-trait livestock evaluations. *animal - Open Space* 1(1): 100005. [doi:10.1016/j.anopes.2022.100005](https://doi.org/10.1016/j.anopes.2022.100005)
 * **Nilforooshan, M.A.** 2022. A new computational approach to Henderson's method of computing the inverse of a numerator relationship matrix. *Livest. Sci.* 257: 104848. [doi:10.1016/j.livsci.2022.104848](https://doi.org/10.1016/j.livsci.2022.104848)
