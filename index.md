@@ -10,9 +10,12 @@
 
 <img align="right" src="images/mohammad_nilforooshan.jpg">
 
+**Welcome to my website!**
+
 About me
 ========
 
+My name is Mohammad Ali Nilforooshan.  
 I am a Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
 I received my PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics, from the Swedish University of Agricultural Sciences, in May 2011.  
 My work experience is mainly on genetic/genomic evaluation of dairy cattle, but I also have experience in genetic/genomic evaluation of sheep and beef cattle.  
