@@ -111,6 +111,7 @@ Review and Editorial Contributions
 Publications
 ============
 
+* Valerio-Hernández, J.E., P. Pérez-Rodríguez, **M.A. Nilforooshan**, and A. Ruíz-Flores. 2023. Single-step genomic evaluation for growth traits in a Mexican Braunvieh cattle population. *Anim. Biosci.* Accepted.
 * **Nilforooshan, M.A.** 2023. Technical note: Extension of the reduced animal model to single-step methods. *J. Anim. Sci.* 101: skac272. [doi:10.1093/jas/skac272](https://doi.org/10.1093/jas/skac272)
 * **Nilforooshan, M.A.** 2022. The algorithm for proven and young (APY) from a different perspective. *bioRxiv*. [doi:10.1101/2022.11.23.517757](https://doi.org/10.1101/2022.11.23.517757)
 * **Nilforooshan, M.A.** 2022. A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. *Animals* 12: 3208. [doi:10.3390/ani12223208](https://doi.org/10.3390/ani12223208)
