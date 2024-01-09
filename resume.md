@@ -98,7 +98,7 @@ September 2004 -- June 2006
 
 # Publications
 
-- **Nilforooshan, M.A.** 2024. Short Communication: Reduced GBLUP equations to core animals in the algorithm for proven and young (APY). _Veterinary and Animal Science_ 23: In Press. https://doi.org/10.1016/j.vas.2024.100334
+- **Nilforooshan, M.A.** 2024. Short Communication: Reduced GBLUP equations to core animals in the algorithm for proven and young (APY). _Veterinary and Animal Science_ 23: 100334. https://doi.org/10.1016/j.vas.2024.100334
 - Valerio-Hernández, J.E., P. Pérez-Rodríguez, **M.A. Nilforooshan**, and A. Ruíz-Flores. 2023. Single-step genomic evaluation for growth traits in a Mexican Braunvieh cattle population. _Animal Bioscience_ 36(7): 1003&ndash;1009. https://doi.org/10.5713/ab.22.0158
 - **Nilforooshan, M.A.** 2023. Technical note: Extension of the reduced animal model to single-step methods. _Journal of Animal Science_ 101: skac272. https://doi.org/10.1093/jas/skac272
 - **Nilforooshan, M.A.** 2022. The algorithm for proven and young (APY) from a different perspective. _bioRxiv_. https://doi.org/10.1101/2022.11.23.517757
