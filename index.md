@@ -12,8 +12,7 @@
 
 **Welcome to my website!**
 
-About me
-========
+# About me
 
 My name is Mohammad Ali Nilforooshan.  
 I am a Quantitative Genetics at <a href="http://www.lic.co.nz/" target="_blank">LIC</a>, Hamilton, New Zealand.  
@@ -33,14 +32,14 @@ Resume: [[HTML](resume.md)] [[PDF](resume.pdf)]
 
 [Teaching](teaching.md)
 
-R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](https://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)]
+R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](https://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)] [[pedMermaid](https://cran.r-project.org/package=pedMermaid)]
 
 [Contact](contact.md)
 
 ---
 
-[![GitHub](images/githubicon.png  "GitHub")](https://github.com/nilforooshan)
+[![GitHub](images/githubicon.png "GitHub")](https://github.com/nilforooshan)
 [![GoogleScholar](images/google-scholar-logo.png "GoogleScholar")](http://scholar.google.com/citations?hl=en&user=X7avTQgAAAAJ)
 [![Loop](images/loop-logo.png "Loop")](https://loop.frontiersin.org/people/1161300/overview)
 [![WEBofSCI](images/Web-of-Sci-logo.png "WofS")](https://www.webofscience.com/wos/author/record/GQH-1837-2022)
-[![SciProfiles](images/sci-profiles-logo.png  "SciProfiles")](https://sciprofiles.com/profile/manilforooshan)
+[![SciProfiles](images/sci-profiles-logo.png "SciProfiles")](https://sciprofiles.com/profile/manilforooshan)
