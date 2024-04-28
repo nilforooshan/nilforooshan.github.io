@@ -32,7 +32,7 @@ Resume: [[HTML](resume.md)] [[PDF](resume.pdf)]
 
 [Teaching](teaching.md)
 
-R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](https://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)] [[pedMermaid](https://cran.r-project.org/package=pedMermaid)]
+R packages: [[ggroups](https://cran.r-project.org/package=ggroups)] [[mbend](https://cran.r-project.org/package=mbend)] [[pedSimulate](https://cran.r-project.org/package=pedSimulate)] [[pedMermaid](https://cran.r-project.org/package=pedMermaid)] [[FnR](https://cran.r-project.org/package=FnR)]
 
 [Contact](contact.md)
 

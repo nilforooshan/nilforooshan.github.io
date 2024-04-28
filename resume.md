@@ -87,6 +87,7 @@ September 2004 -- June 2006
 
 # Software
 
+- **Nilforooshan, M.A.** 2024. R package [FnR](https://CRAN.R-project.org/package=FnR): Inbreeding and Numerator Relationship Coefficients.
 - **Nilforooshan, M.A.** 2024. R package [pedMermaid](https://CRAN.R-project.org/package=pedMermaid): Pedigree Mermaid Syntax.
 - **Nilforooshan, M.A.** 2020. R package [pedSimulate](https://CRAN.R-project.org/package=pedSimulate): Pedigree, Genetic Merit, Phenotype, and Genotype Simulation.
 - **Nilforooshan, M.A.** 2019. R package [mbend](https://CRAN.R-project.org/package=mbend): Matrix Bending.
