@@ -31,12 +31,12 @@ Statistical methods applied to livestock genetic and genomic evaluation
 Putting biology into equations and equations into program codes  
 Single-step genomic evaluation  
 Computational biology  
-Traveling
+Travelling
 
 # Education
 
 **Swedish University of Agricultural Sciences, Dept. Animal Breeding and Genetics**  
-PhD in Animal Breeding and Genetics -- Quantitative Genetics, June 2007 -- May 2011
+PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics, June 2007 &ndash; May 2011
 
 # Awards
 
@@ -54,36 +54,36 @@ PhD in Animal Breeding and Genetics -- Quantitative Genetics, June 2007 -- May 2
 # Positions
 
 **LIC**  
-_Scientist -- Quantitative Genetics_  
-May 2020 -- Present
+_Scientist &ndash; Quantitative Genetics_  
+May 2020 &ndash; Present
 
 _Postdoctoral Research Fellow in Quantitative Genetics_  
-December 2018 -- May 2020
+December 2018 &ndash; May 2020
 
 **University of Otago**, Dept. Mathematics and Statistics  
 _Postdoctoral Fellow in Quantitative Genetics_  
-November 2015 -- October 2018
+November 2015 &ndash; October 2018
 
 **Swedish University of Agricultural Sciences**, Dept. Animal Breeding and Genetics, Interbull Centre  
 _Geneticist_  
-June 2012 -- October 2015
+June 2012 &ndash; October 2015
 
 **University of Nebraska-Lincoln**, Dept. Statistics  
 _Postdoctoral Research Fellow in Computational Biology_  
-September 2011 -- May 2012
+September 2011 &ndash; May 2012
 
 **Isfahan Science and Technology Town**, Animal Science Core  
 _Research Assistant_  
-September 2004 -- June 2006
+September 2004 &ndash; June 2006
 
 # Teaching
 
 - Member of an MSc student's advisory panel, University of Texcoco, December, 2023.
-- Supervising a visiting PhD student to the Department of Mathematics and Statistics, University of Otago, August -- October, 2018.
-- Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July -- October, 2018.
-- Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July -- October, 2017.
+- Supervising a visiting PhD student to the Department of Mathematics and Statistics, University of Otago, August &ndash; October, 2018.
+- Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July &ndash; October, 2018.
+- Teaching some lectures of the postgraduate course in Quantitative Genetics, held at the University of Otago, Dunedin, New Zealand, July &ndash; October, 2017.
 - Teaching R programming, and giving several other talks in the University of Chapingo, Texcoco, Mexico, April 2015.
-- Teaching \"Dairy Cattle Husbandry\" in Kabootar-Abad school of Agriculture, Isfahan, Iran, September 2004 -- June 2005.
+- Teaching \"Dairy Cattle Husbandry\" in Kabootar-Abad school of Agriculture, Isfahan, Iran, September 2004 &ndash; June 2005.
 
 # Software
 
@@ -96,7 +96,7 @@ September 2004 -- June 2006
 # Review and Editorial Contributions
 
 - Acting reviewer for many peer-reviewed journals.
-- Frontiers in Genetics -- Section Livestock Genomics: [Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection).
+- Frontiers in Genetics &ndash; Section Livestock Genomics: [Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection).
 
 # Publications
 
@@ -125,7 +125,7 @@ September 2004 -- June 2006
 - Behdad, S., M.A. Edriss, **M.A. Nilforooshan**, and A.H. Movassagh. 2013. Wool characteristics of Bakhtiari sheep and the correlated responses to selection for pre-weaning daily gain. _Indian Journal of Animal Science_ [83(1): 82&ndash;85](http://epubs.icar.org.in/ejournal/index.php/IJAnS/article/view/26453).
 - **Nilforooshan, M.A.** 2011. Multiple-trait multiple country genetic evaluation of fertility traits in dairy cattle. Uppsala : Sveriges lantbruksuniv., _Acta Universitatis Agriculturae Sueciae_, 1652-6880; 2011:31. ISBN 978-91-576-7566-8. [Doctoral thesis](https://pub.epsilon.slu.se/8094).
 - **Nilforooshan, M.A.**, W.F. Fikse, B. Berglund, J.H. Jakobsen, and H. Jorjani. 2011. Short communication: Quantifying bias in a single-trait international model ignoring covariances from multiple-trait national models. _Journal of Dairy Science_ 94(5): 2631&ndash;2636. https://doi.org/10.3168/jds.2010-3863
-- **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2010. Application of a multiple-trait, multiple-country genetic evaluation model for female fertility traits. \_Journal of Dairy Science\_\_ 93(12): 5977&ndash;5986. https://doi.org/10.3168/jds.2010-3437
+- **Nilforooshan, M.A.**, J.H. Jakobsen, W.F. Fikse, B. Berglund, and H. Jorjani. 2010. Application of a multiple-trait, multiple-country genetic evaluation model for female fertility traits. _Journal of Dairy Science_ 93(12): 5977&ndash;5986. https://doi.org/10.3168/jds.2010-3437
 - **Nilforooshan, M.A.** 2010. Contemporary grouping in mixed-size dairy herds experiencing four seasons. _Turkish Journal of Veterinary & Animal Sciences_ 34(2): 129&ndash;135. https://doi.org/10.3906/vet-0710-18
 - **Nilforooshan, M.A.**, A. Khazaeli, and M.A. Edriss. 2008. Effects of missing pedigree information on dairy cattle genetic evaluations (short communication). _Archives Animal Breeding_ 51(2): 99&ndash;110. https://doi.org/10.5194/aab-51-99-2008
 - Edriss, M.A., P. Hosseinia, M. Edrisi, H.R. Rahmani, and **M.A. Nilforooshan**. 2008. Prediction of second parity milk performance of dairy cows from first parity information using artificial neural network and multiple linear regression methods. _Asian Journal of Animal and Veterinary Advances_ 3(4): 222&ndash;229. https://doi.org/10.3923/ajava.2008.222.229
