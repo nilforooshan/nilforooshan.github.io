@@ -96,7 +96,8 @@ September 2004 &ndash; June 2006
 # Review and Editorial Contributions
 
 - Acting reviewer for many peer-reviewed journals.
-- Frontiers in Genetics &ndash; Section Livestock Genomics: [Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection).
+- Associate Editor of the _[New Zealand Journal of Agricultural Research](https://www.tandfonline.com/journals/tnza20)_.
+- Topic Editor of the special issue "[Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection)" in Frontiers in Genetics &ndash; Section Livestock Genomics.
 
 # Publications
 
