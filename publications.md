@@ -50,17 +50,17 @@
 
 # Data and Code
 
+- **Nilforooshan, M.A.** 2023. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). _figshare_. https://doi.org/10.6084/m9.figshare.20539650.v3
 - **Nilforooshan, M.A.** 2022. Code & data &mdash; A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. _Mendeley Data_. https://doi.org/10.17632/cn9jzpj7fg.1
 - **Nilforooshan, M.A.** 2022. Code & data &mdash; Understanding factors influencing the estimated genetic variance and the distribution of breeding values. _Mendeley Data_. https://doi.org/10.17632/zd3xx54j62.3
-- **Nilforooshan, M.A.** 2022. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). _figshare_. https://doi.org/10.6084/m9.figshare.20539650.v3
 - **Nilforooshan, M.A.** 2022. Reduced Animal Model for ssGBLUP. _figshare_. https://doi.org/10.6084/m9.figshare.16455681.v2
-- **Nilforooshan, M.A.** 2021. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. _Mendeley Data_. https://doi.org/10.17632/gnyrym4mv4.3
+- **Nilforooshan, M.A.** 2022. Code & data &mdash; Further improvement of bending performance for conditioning covariance matrices. _Mendeley Data_. https://doi.org/10.17632/gnyrym4mv4.3
+- **Nilforooshan, M.A.** 2022. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. _Mendeley Data_. https://doi.org/10.17632/c4pv8w8pmp.2
 - **Nilforooshan, M.A.** 2021. Code &ndash; A new computational approach to Henderson’s method for computing the inverse of a numerator relationship matrix. _Mendeley Data_. https://doi.org/10.17632/db9pd7ns6d.2
-- **Nilforooshan, M.A.** 2021. Twenty simulated pedigrees with different combinations of three parameters using R package pedSimulate. _Mendeley Data_. https://doi.org/10.17632/c4pv8w8pmp.2
 - **Nilforooshan, M.A.**, D. Garrick, and B. Harris. 2021. Code & Data &ndash; Alternative Ways of Computing the Numerator Relationship Matrix. _figshare_. https://doi.org/10.6084/m9.figshare.13497939.v1
 - **Nilforooshan, M.A.**, and D. Garrick. 2021. R examples &ndash; Reduced Animal Models Fitting Only Equations for Phenotyped Animals. _figshare_. https://doi.org/10.6084/m9.figshare.13369607.v1
-- **Nilforooshan, M.A.** 2021. mbend: Data, Code & Results. _Mendeley Data_. https://doi.org/10.17632/kf3d8v8939.1
-- **Nilforooshan, M.A.** 2021. Benchmarking matrix self-cross-products, using R and Python functions. _Mendeley Data_. https://doi.org/10.17632/vk8vy7ghnf.1
+- **Nilforooshan, M.A.** 2020. mbend: Data, Code & Results. _Mendeley Data_. https://doi.org/10.17632/kf3d8v8939.1
+- **Nilforooshan, M.A.** 2019. Benchmarking matrix self-cross-products, using R and Python functions. _Mendeley Data_. https://doi.org/10.17632/vk8vy7ghnf.1
 
 # Proceedings
 
