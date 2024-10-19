@@ -28,7 +28,7 @@ My research interest is on methodological and computational aspects of quantitat
 
 Resume: [[HTML](resume.md)] [[PDF](resume.pdf)]
 
-My blog: https://bit.ly/man_blog
+My blog: <https://bit.ly/man_blog>
 
 [Publications](publications.md)
 
