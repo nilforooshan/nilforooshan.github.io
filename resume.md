@@ -102,6 +102,7 @@ September 2004 &ndash; June 2006
 
 # Publications
 
+- Velez Labrada, J.L., P. P&eacute;rez-Rodr&iacute;guez, **M.A. Nilforooshan**, A. Ru&iacute;z-Flores. 2025. Comparison of machine learning methods for predicting genomic breeding values for growth traits in Braunvieh cattle. _Revista Mexicana de Ciencias Pecuarias_ 16(1): 179&ndash;193. https://doi.org/10.22319/rmcp.v16i1.6616
 - **Nilforooshan, M.A.**, A. Ru&iacute;z-Flores, P. P&eacute;rez-Rodr&iacute;guez, T. Pabiou, L.A. Saavedra-Jim&eacute;nez, and J.E. Valerio-Hern&aacute;ndez. 2025. Multitrait analysis of growth traits for the optimization of breeding value prediction in Braunvieh cattle. _Revista Mexicana de Ciencias Pecuarias_ 16(1): 55&ndash;68. https://doi.org/10.22319/rmcp.v16i1.6648
 - **Nilforooshan, M.A.** 2024. FnR: R package for computing inbreeding and numerator relationship coefficients. _BMC Ecology and Evolution_ 24: 99. https://doi.org/10.1186/s12862-024-02285-4
 - **Nilforooshan, M.A.** 2024. Short Communication: Reduced GBLUP equations to core animals in the algorithm for proven and young (APY). _Veterinary and Animal Science_ 23: 100334. https://doi.org/10.1016/j.vas.2024.100334
