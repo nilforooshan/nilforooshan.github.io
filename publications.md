@@ -52,6 +52,7 @@
 
 # Data and Code
 
+- **Nilforooshan, M.A.** 2025. Code & Data &ndash; A GBLUP to produce ssGBLUP solutions for genotyped animals. _figshare_. https://doi.org/10.6084/m9.figshare.28502144.v1
 - **Nilforooshan, M.A.** 2023. Code & Data &mdash; Genomic evaluations reduced to equations for core animals in the algorithm for proven and young (APY). _figshare_. https://doi.org/10.6084/m9.figshare.20539650.v3
 - **Nilforooshan, M.A.** 2022. Code & data &mdash; A note on the conditioning of the **H**<sup>-1</sup> matrix used in single-step GBLUP. _Mendeley Data_. https://doi.org/10.17632/cn9jzpj7fg.1
 - **Nilforooshan, M.A.** 2022. Code & data &mdash; Understanding factors influencing the estimated genetic variance and the distribution of breeding values. _Mendeley Data_. https://doi.org/10.17632/zd3xx54j62.3
