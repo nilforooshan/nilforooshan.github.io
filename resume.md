@@ -48,8 +48,9 @@ PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics, June 2007 &nd
 # Skills
 
 **Scientific:** Matrix Algebra, Quantitative Genetics and General Animal Breeding, Statistics, Reviewer for scientific journals  
-**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Markdown and RMarkdown, Wiki Markup, LaTeX, Typst, Git and GitHub, Docker, Julia, and C (beginner)  
-**Analytics:** Designing, streamlining and documenting genetic/genomic evaluation pipelines; experienced in several computer packages such as ASReml, DFReml, MiX99, BLUPF90, and APEX; experienced in cloud computing (AWS)
+**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Git, GitHub, Docker, Julia, and C (beginner)  
+**Analytics:** Designing, streamlining and documenting genetic/genomic evaluation pipelines; experienced in several computer packages such as ASReml, DFReml, MiX99, BLUPF90, and APEX; experienced in cloud computing (AWS)  
+**Typesetting & documentation:** Markdown, RMarkdown, Wiki Markup, LaTeX, and Typst
 
 # Positions
 
@@ -86,6 +87,12 @@ September 2004 &ndash; June 2006
 - Teaching R programming, and giving several other talks in the University of Chapingo, Texcoco, Mexico, April 2015.
 - Teaching \"Dairy Cattle Husbandry\" in Kabootar-Abad school of Agriculture, Isfahan, Iran, September 2004 &ndash; June 2005.
 
+# Review and Editorial Contributions
+
+- Acting reviewer for many peer-reviewed journals.
+- Associate Editor of the _[New Zealand Journal of Agricultural Research](https://www.tandfonline.com/journals/tnza20)_.
+- Topic Editor of the special issue "[Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection)" in _Frontiers in Genetics &ndash; Section Livestock Genomics_.
+
 # Software
 
 - **Nilforooshan, M.A.** 2024. R package [FnR](https://CRAN.R-project.org/package=FnR): Inbreeding and Numerator Relationship Coefficients.
@@ -93,12 +100,6 @@ September 2004 &ndash; June 2006
 - **Nilforooshan, M.A.** 2020. R package [pedSimulate](https://CRAN.R-project.org/package=pedSimulate): Pedigree, Genetic Merit, Phenotype, and Genotype Simulation.
 - **Nilforooshan, M.A.** 2019. R package [mbend](https://CRAN.R-project.org/package=mbend): Matrix Bending.
 - **Nilforooshan, M.A.** 2019. R package [ggroups](https://CRAN.R-project.org/package=ggroups): Pedigree and Genetic Groups.
-
-# Review and Editorial Contributions
-
-- Acting reviewer for many peer-reviewed journals.
-- Associate Editor of the _[New Zealand Journal of Agricultural Research](https://www.tandfonline.com/journals/tnza20)_.
-- Topic Editor of the special issue "[Reducing the Environmental Footprint of Livestock Through Genomic Selection](https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection)" in _Frontiers in Genetics &ndash; Section Livestock Genomics_.
 
 # Publications
 
