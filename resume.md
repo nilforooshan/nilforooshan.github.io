@@ -48,7 +48,7 @@ PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics, June 2007 &nd
 # Skills
 
 **Scientific:** Matrix Algebra, Quantitative Genetics and General Animal Breeding, Statistics, Reviewer for scientific journals  
-**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Markdown and RMarkdown, Wiki Markup, LaTeX, Git and GitHub, Docker, Julia, and C (beginner)  
+**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Markdown and RMarkdown, Wiki Markup, LaTeX, Typst, Git and GitHub, Docker, Julia, and C (beginner)  
 **Analytics:** Designing, streamlining and documenting genetic/genomic evaluation pipelines; experienced in several computer packages such as ASReml, DFReml, MiX99, BLUPF90, and APEX; experienced in cloud computing (AWS)
 
 # Positions
