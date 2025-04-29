@@ -48,32 +48,42 @@ PhD in Animal Breeding and Genetics &ndash; Quantitative Genetics, June 2007 &nd
 # Skills
 
 **Scientific:** Matrix Algebra, Quantitative Genetics and General Animal Breeding, Statistics, Reviewer for scientific journals  
-**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Git, GitHub, Docker, Julia, and C (beginner)  
+**Programming:** R, SAS, Fortran, Bash, Sed, Awk, Python, Git, GitHub, Docker, and Julia  
 **Analytics:** Designing, streamlining and documenting genetic/genomic evaluation pipelines; experienced in several computer packages such as ASReml, DFReml, MiX99, BLUPF90, and APEX; experienced in cloud computing (AWS)  
 **Typesetting & documentation:** Markdown, RMarkdown, Wiki Markup, LaTeX, and Typst
 
 # Positions
 
-**LIC**  
+**LIC**, Hamilton, New Zealand  
+R&D Division
+
 _Scientist &ndash; Quantitative Genetics_  
 May 2020 &ndash; Present
 
 _Postdoctoral Research Fellow in Quantitative Genetics_  
 December 2018 &ndash; May 2020
 
-**University of Otago**, Dept. Mathematics and Statistics  
+**University of Otago**, Dunedin, New Zealand  
+Department of Mathematics and Statistics
+
 _Postdoctoral Fellow in Quantitative Genetics_  
 November 2015 &ndash; October 2018
 
-**Swedish University of Agricultural Sciences**, Dept. Animal Breeding and Genetics, Interbull Centre  
+**Swedish University of Agricultural Sciences**, Uppsala, Sweden  
+Interbull Centre, Department of Animal Breeding and Genetics
+
 _Geneticist_  
 June 2012 &ndash; October 2015
 
-**University of Nebraska-Lincoln**, Dept. Statistics  
+**University of Nebraska-Lincoln**, NE, USA  
+Department of Statistics
+
 _Postdoctoral Research Fellow in Computational Biology_  
 September 2011 &ndash; May 2012
 
-**Isfahan Science and Technology Town**, Animal Science Core  
+**Isfahan Science and Technology Town**, Isfahan, Iran  
+Animal Science Core
+
 _Research Assistant_  
 September 2004 &ndash; June 2006
 
