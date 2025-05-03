@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>R counrse in Mexico, April 2015 | Mohammad Ali Nilforooshan</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+This web page is for the R course at Universidad Autónoma Chapingo, Mexico, April 2015.
+Course notes, presentation files, R scripts and sample data will be provided here during the course.
+Registeration form: http://goo.gl/forms/K8oiq1nU0i
+Course schedule:
+
+  
+      
+          Date
+          Time
+          Time
+      
+  
+  
+      
+          Monday, 13 April
+          10:30-12:00
+          14:00-16:00
+      
+      
+          Tuesday, 14 April
+          
+          14:00-16:00
+      
+      
+          Wednesday, 15 April
+          
+          14:00-16:00
+      
+      
+          Thursday, 16 April
+          09:00-11:00
+          14:00-16:00
+      
+      
+          Friday, 17 April
+          10:30-12:30
+          
+      
+      
+          Monday, 20 April
+          
+          14:00-16:00
+      
+  
+
+Other schedules:">
+<meta name="author" content="Mohammad Ali Nilforooshan">
+<link rel="canonical" href="https://nilforooshan.github.io/rmex/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d8f59b3c7c1090eba9c30c8f52f3fbed430691cd0002556e9c8263c21c4cc720.css" integrity="sha256-2PWbPHwQkOupwwyPUvP77UMGkc0AAlVunIJjwhxMxyA=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://nilforooshan.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://nilforooshan.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://nilforooshan.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://nilforooshan.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://nilforooshan.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://nilforooshan.github.io/rmex/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-28DM9J1LV8"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-28DM9J1LV8');
+        }
+      </script><meta property="og:url" content="https://nilforooshan.github.io/rmex/">
+  <meta property="og:site_name" content="Mohammad Ali Nilforooshan">
+  <meta property="og:title" content="R counrse in Mexico, April 2015">
+  <meta property="og:description" content="
+This web page is for the R course at Universidad Autónoma Chapingo, Mexico, April 2015.
+Course notes, presentation files, R scripts and sample data will be provided here during the course.
+Registeration form: http://goo.gl/forms/K8oiq1nU0i
+Course schedule:
+Date Time Time Monday, 13 April 10:30-12:00 14:00-16:00 Tuesday, 14 April 14:00-16:00 Wednesday, 15 April 14:00-16:00 Thursday, 16 April 09:00-11:00 14:00-16:00 Friday, 17 April 10:30-12:30 Monday, 20 April 14:00-16:00 Other schedules:">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+      <meta property="og:image" content="https://nilforooshan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://nilforooshan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
+<meta name="twitter:title" content="R counrse in Mexico, April 2015">
+<meta name="twitter:description" content="
+This web page is for the R course at Universidad Autónoma Chapingo, Mexico, April 2015.
+Course notes, presentation files, R scripts and sample data will be provided here during the course.
+Registeration form: http://goo.gl/forms/K8oiq1nU0i
+Course schedule:
+
+  
+      
+          Date
+          Time
+          Time
+      
+  
+  
+      
+          Monday, 13 April
+          10:30-12:00
+          14:00-16:00
+      
+      
+          Tuesday, 14 April
+          
+          14:00-16:00
+      
+      
+          Wednesday, 15 April
+          
+          14:00-16:00
+      
+      
+          Thursday, 16 April
+          09:00-11:00
+          14:00-16:00
+      
+      
+          Friday, 17 April
+          10:30-12:30
+          
+      
+      
+          Monday, 20 April
+          
+          14:00-16:00
+      
+  
+
+Other schedules:">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "R counrse in Mexico, April 2015",
+      "item": "https://nilforooshan.github.io/rmex/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "R counrse in Mexico, April 2015",
+  "name": "R counrse in Mexico, April 2015",
+  "description": "\nThis web page is for the R course at Universidad Autónoma Chapingo, Mexico, April 2015.\nCourse notes, presentation files, R scripts and sample data will be provided here during the course.\nRegisteration form: http://goo.gl/forms/K8oiq1nU0i\nCourse schedule:\nDate Time Time Monday, 13 April 10:30-12:00 14:00-16:00 Tuesday, 14 April 14:00-16:00 Wednesday, 15 April 14:00-16:00 Thursday, 16 April 09:00-11:00 14:00-16:00 Friday, 17 April 10:30-12:30 Monday, 20 April 14:00-16:00 Other schedules:\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "\nThis web page is for the R course at Universidad Autónoma Chapingo, Mexico, April 2015.\nCourse notes, presentation files, R scripts and sample data will be provided here during the course.\nRegisteration form: http://goo.gl/forms/K8oiq1nU0i\nCourse schedule:\nDate Time Time Monday, 13 April 10:30-12:00 14:00-16:00 Tuesday, 14 April 14:00-16:00 Wednesday, 15 April 14:00-16:00 Thursday, 16 April 09:00-11:00 14:00-16:00 Friday, 17 April 10:30-12:30 Monday, 20 April 14:00-16:00 Other schedules:\nDate Time Wednesday, 15 April 13:00-14:00 (Interbull Activities) Tuesday, 21 April 15:30-17:30 (Pedigree checking and package pedigreemm) Wednesday, 22 April 13:00-14:00 (An Introduction to International genetic evaluations of Bovine) Thursday, 23 April 10:00-12:00 (Genomic evaluation) Home work 1: http://goo.gl/forms/b5qp5Wlwxl\nHome work 2: http://goo.gl/forms/4wFaFXOQ7E\nDear student, please follow this link to get the R codes that I share with you during the course.\nDear student, you can download the presentation and data files below.\nCourse materials for each day will be provided the same day.\nFile Description Size 20150415.pdf Presentation file “Interbull Activities”; Wednesday, 15 April 2015 567k 20150422.pdf Presentation file “An Introduction to International genetic evaluations of Bovine”; Wednesday, 22 April 2015 2236k beetle.csv Experiment data for a sire model analysis of beetle fecundity (Data: Messina \u0026 Fry, 2003) 5k data1.csv data1.txt, comma separated 10k data1.txt Sample data, containing ID, protein level in the diet, birth weight, and wean weight of animals 10k homework1.txt http://goo.gl/forms/b5qp5Wlwxl 1k pedigreemm.pdf Presentation file about pedigree checking and pedigreemm 705k Presentation_day1.pdf Presentation file from the 1st day 4377k Presentation_day2.pdf Presentation file from the 2nd day 1526k Presentation_day3.pdf Presentation file from the 3rd day 1916k Presentation_day4.pdf Presentation file from the 4th day 2664k Presentation_day5.pdf Presentation file from the 5th day 1446k Presentation_day6.pdf Presentation file from the 6th day 1483k ",
+  "wordCount" : "280",
+  "inLanguage": "en",
+  "image": "https://nilforooshan.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Mohammad Ali Nilforooshan"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nilforooshan.github.io/rmex/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mohammad Ali Nilforooshan",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nilforooshan.github.io/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://nilforooshan.github.io/" accesskey="h" title="Mohammad Ali Nilforooshan (Alt + H)">Mohammad Ali Nilforooshan</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      R counrse in Mexico, April 2015
+    </h1>
+  </header> 
+  <div class="post-content"><p><img alt="Image" loading="lazy" src="/IMG_1970.JPG"></p>
+<p>This web page is for the R course at <em>Universidad Autónoma Chapingo</em>, Mexico, April 2015.<br>
+Course notes, presentation files, R scripts and sample data will be provided here during the course.</p>
+<p><strong>Registeration form:</strong> <a href="http://goo.gl/forms/K8oiq1nU0i" target="_blank"><a href="http://goo.gl/forms/K8oiq1nU0i">http://goo.gl/forms/K8oiq1nU0i</a></a></p>
+<p><strong>Course schedule:</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Time</th>
+          <th>Time</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Monday, 13 April</td>
+          <td>10:30-12:00</td>
+          <td>14:00-16:00</td>
+      </tr>
+      <tr>
+          <td>Tuesday, 14 April</td>
+          <td></td>
+          <td>14:00-16:00</td>
+      </tr>
+      <tr>
+          <td>Wednesday, 15 April</td>
+          <td></td>
+          <td>14:00-16:00</td>
+      </tr>
+      <tr>
+          <td>Thursday, 16 April</td>
+          <td>09:00-11:00</td>
+          <td>14:00-16:00</td>
+      </tr>
+      <tr>
+          <td>Friday, 17 April</td>
+          <td>10:30-12:30</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Monday, 20 April</td>
+          <td></td>
+          <td>14:00-16:00</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Other schedules:</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Time</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Wednesday, 15 April</td>
+          <td>13:00-14:00 (Interbull Activities)</td>
+      </tr>
+      <tr>
+          <td>Tuesday, 21 April</td>
+          <td>15:30-17:30 (Pedigree checking and package pedigreemm)</td>
+      </tr>
+      <tr>
+          <td>Wednesday, 22 April</td>
+          <td>13:00-14:00 (An Introduction to International genetic evaluations of Bovine)</td>
+      </tr>
+      <tr>
+          <td>Thursday, 23 April</td>
+          <td>10:00-12:00 (Genomic evaluation)</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Home work 1:</strong> <a href="http://goo.gl/forms/b5qp5Wlwxl" target="_blank"><a href="http://goo.gl/forms/b5qp5Wlwxl">http://goo.gl/forms/b5qp5Wlwxl</a></a><br>
+<strong>Home work 2:</strong> <a href="http://goo.gl/forms/4wFaFXOQ7E" target="_blank"><a href="http://goo.gl/forms/4wFaFXOQ7E">http://goo.gl/forms/4wFaFXOQ7E</a></a></p>
+<p><strong>Dear student</strong>, please follow this <a href="https://nilforooshan.github.io/rreview.html" target="_blank">link</a> to get the <strong>R codes</strong> that I share with you during the course.</p>
+<p><strong>Dear student</strong>, you can <strong>download</strong> the presentation and data files below.<br>
+Course materials for each day will be provided the same day.</p>
+<table>
+  <thead>
+      <tr>
+          <th>File</th>
+          <th>Description</th>
+          <th>Size</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpTDdhRDE1d2dBaWc/view?usp=sharing" target="_blank">20150415.pdf</a></td>
+          <td>Presentation file &ldquo;Interbull Activities&rdquo;; Wednesday, 15 April 2015</td>
+          <td>567k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpR2NEZDlteXpxbVk/view?usp=sharing" target="_blank">20150422.pdf</a></td>
+          <td>Presentation file &ldquo;An Introduction to International genetic evaluations of Bovine&rdquo;; Wednesday, 22 April 2015</td>
+          <td>2236k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/uc?export=download&amp;id=0B2l_izQwJmVpdTAtQ1Q1Sy1DbjA">beetle.csv</a></td>
+          <td>Experiment data for a sire model analysis of beetle fecundity (Data: Messina &amp; Fry, 2003)</td>
+          <td>5k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/uc?export=download&amp;id=0B2l_izQwJmVpb0oxelltMmk2Z1k">data1.csv</a></td>
+          <td>data1.txt, comma separated</td>
+          <td>10k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/uc?export=download&amp;id=0B2l_izQwJmVpQ2tnbVp5cU90SDA">data1.txt</a></td>
+          <td>Sample data, containing ID, protein level in the diet, birth weight, and wean weight of animals</td>
+          <td>10k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/uc?export=download&amp;id=0B2l_izQwJmVpYVJhZ2Vic1V1STA">homework1.txt</a></td>
+          <td><a href="http://goo.gl/forms/b5qp5Wlwxl">http://goo.gl/forms/b5qp5Wlwxl</a></td>
+          <td>1k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpRE9mVHlqM2pwTTQ/view?usp=sharing" target="_blank">pedigreemm.pdf</a></td>
+          <td>Presentation file about pedigree checking and pedigreemm</td>
+          <td>705k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpZEdYY2s5c1BYdE0/view?usp=sharing" target="_blank">Presentation_day1.pdf</a></td>
+          <td>Presentation file from the 1st day</td>
+          <td>4377k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpVG1MSnpsMWR1a3M/view?usp=sharing" target="_blank">Presentation_day2.pdf</a></td>
+          <td>Presentation file from the 2nd day</td>
+          <td>1526k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpRlg0TkhEOV9nZ28/view?usp=sharing" target="_blank">Presentation_day3.pdf</a></td>
+          <td>Presentation file from the 3rd day</td>
+          <td>1916k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpM0FfWi1CcDV2d0U/view?usp=sharing" target="_blank">Presentation_day4.pdf</a></td>
+          <td>Presentation file from the 4th day</td>
+          <td>2664k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpQXlDR1dZVFZPYk0/view?usp=sharing" target="_blank">Presentation_day5.pdf</a></td>
+          <td>Presentation file from the 5th day</td>
+          <td>1446k</td>
+      </tr>
+      <tr>
+          <td><a href="https://drive.google.com/file/d/0B2l_izQwJmVpdnFhQm1yc3ZrbkE/view?usp=sharing" target="_blank">Presentation_day6.pdf</a></td>
+          <td>Presentation file from the 6th day</td>
+          <td>1483k</td>
+      </tr>
+  </tbody>
+</table>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://nilforooshan.github.io/">Mohammad Ali Nilforooshan</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
